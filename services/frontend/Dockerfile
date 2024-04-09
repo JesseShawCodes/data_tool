@@ -4,11 +4,11 @@
 FROM node:lts-buster AS development
 
 # Create app directory
-WORKDIR /usr/src/app
+WORKDIR /usr/src/data_tool
 
 # Copy dependency definitions
-COPY package.json /usr/src/app
-COPY package-lock.json /usr/src/app
+COPY package.json /usr/src/data_tool
+COPY package-lock.json /usr/src/data_tool
 
 # Install dependecies
 RUN npm set progress=false \
@@ -17,7 +17,7 @@ RUN npm set progress=false \
 RUN npm ci
 
 # Get all the code needed to run the app
-COPY . /usr/src/app
+COPY . /usr/src/data_tool
 
 # Expose the port the app runs in
 EXPOSE 3000
