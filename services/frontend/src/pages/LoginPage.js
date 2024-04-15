@@ -21,7 +21,7 @@ const LoginPage = () => {
     return (
         <div className="login_page">
         <h1>Log in</h1>
-        {error && <p className="error">{error}</p>}
+        {error && <p className="alert alert-danger">{error}</p>}
 
             <div className="form-group">
                 <label htmlFor="exampleInputEmail1">Email address</label>
