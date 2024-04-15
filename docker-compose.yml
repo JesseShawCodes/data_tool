@@ -1,6 +1,18 @@
-
+volumes:
+  db:
+  node_modules:
 
 services:
+  backend:
+    build:
+      context: ./services/backend
+      target: builder
+
+    stop_signal: SIGINT
+    ports:
+      - '8000:8000'
+    depends_on:
+      - db
   frontend:
     build:
       context: ./services/frontend
@@ -9,8 +21,8 @@ services:
       - 3000:3000
     stdin_open: true
     volumes:
-      - ./:/usr/src/app
-      - /usr/src/app/node_modules
+      - "./services/frontend:/usr/src/data-tool"
+      - "node_modules:/usr/src/data-tool/node_modules"
     restart: always
 
   db:
@@ -32,7 +44,4 @@ services:
       - '3306'
       # Where our data will be persisted
     volumes:
-      - my-db:/var/lib/mysql
-# Names our volume
-volumes:
-  my-db:
+      - db:/var/lib/mysql
