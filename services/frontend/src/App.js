@@ -4,6 +4,7 @@ import HomePage from './pages/HomePage';
 import LoginPage from './pages/LoginPage';
 import CreateAccountPage from './pages/CreateAccountPage';
 import AboutPage from './pages/AboutPage';
+import ExportPage from './pages/Export';
 
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
@@ -21,6 +22,7 @@ function App() {
             {/* End Test Pages */}
             <Route path="/login" element={<LoginPage />} />
             <Route path="/about" element={<AboutPage />} />
+            <Route path="/export" element={<ExportPage />} />
             <Route path="/create_account" element={<CreateAccountPage />} />
             <Route path="*" element={<NotFoundPage />} />
 

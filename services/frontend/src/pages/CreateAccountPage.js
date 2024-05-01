@@ -28,7 +28,7 @@ const CreateAccountPage = () => {
     }
 
     return (
-        <div className="login_page">
+        <div className="login_page container form">
         <h1>Create Account</h1>
         {error && <p className="error">{error}</p>}
 

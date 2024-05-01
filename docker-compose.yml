@@ -20,11 +20,12 @@ services:
     ports:
       - 3000:3000
     stdin_open: true
-    volumes:
-      - "./services/frontend:/usr/src/data-tool"
-      - "node_modules:/usr/src/data-tool/node_modules"
     restart: always
-
+    develop:
+      watch:
+        - action: sync
+          path: ./services/frontend
+          target: /usr/src/data_tool
   db:
     image: mysql:8.3.0
     restart: always

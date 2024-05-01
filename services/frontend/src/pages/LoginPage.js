@@ -19,7 +19,7 @@ const LoginPage = () => {
         }
     }
     return (
-        <div className="login_page">
+        <div className="login_page container form">
         <h1>Log in</h1>
         {error && <p className="alert alert-danger">{error}</p>}
 
