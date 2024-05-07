@@ -11,21 +11,21 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 const NavBar = () => {
     const { user } = useUser();
     const navigate = useNavigate();
-    
+
     return (
         <Navbar expand="lg" className="bg-body-tertiary">
-        <Container>
-          <Navbar.Brand href="#home">Data App</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav">
+        <Container className="d-flex justify-content-between">
+            <Navbar.Brand href="/">Data App</Navbar.Brand>
+            <Navbar.Toggle aria-controls="basic-navbar-nav" />
+            <Navbar.Collapse id="basic-navbar-nav">
                 {
                     user ?
                     <Nav className="me-auto">
-                        <Nav.Link href="/about">Home</Nav.Link>
+                        <Nav.Link href="/about">About</Nav.Link>
                         <Nav.Link href="/export">Export</Nav.Link>
                     </Nav>
                     :
-                    ""
+                    null                
                 }
                 {
                     user ? 
@@ -34,7 +34,17 @@ const NavBar = () => {
                     </Navbar.Text> : ""
                 }
 
-          </Navbar.Collapse>
+            </Navbar.Collapse>
+            <Navbar.Text className='justify-content-end'>
+                { user
+                    ? <button className="btn btn-secondary" onClick={() => {
+                        signOut(getAuth())
+                    }}>Logout</button>
+                    : <button className="btn btn-secondary" onClick={() => {
+                        navigate('/login')
+                    }}>Login</button>
+                }
+            </Navbar.Text>
         </Container>
       </Navbar>
     )
