@@ -1,0 +1,1001 @@
+equipment_id,equipment_type,manufacturer,model,serial_number,purchase_date,warranty_expiration,operating_system,processor,ram_size,last_test_date
+1,desktop,Mudo,HP EliteBook,GHI789,7/21/2014,10/13/2023,macOS Big Sur,Qualcomm Snapdragon,16,3/20/2022
+2,printer,Voonyx,Lenovo ThinkCentre,ABC123,1/17/2017,6/19/2023,Ubuntu 20.04,Intel Core i7,4,10/24/2023
+3,server,Snaptags,HP EliteBook,DEF456,12/12/2019,4/24/2022,macOS Big Sur,AMD Ryzen 5,25,4/19/2020
+4,server,Skinder,Lenovo ThinkCentre,DEF456,5/17/2021,4/22/2023,macOS Big Sur,AMD Ryzen 5,28,9/29/2022
+5,printer,Eimbee,Dell OptiPlex,DEF456,4/12/2013,4/24/2024,Windows 10,AMD Ryzen 5,30,12/18/2020
+6,printer,Quaxo,Lenovo ThinkCentre,GHI789,5/10/2013,8/18/2025,Windows 10,Qualcomm Snapdragon,20,12/25/2022
+7,printer,Riffpath,Dell OptiPlex,DEF456,12/2/2011,12/22/2023,macOS Big Sur,Qualcomm Snapdragon,24,3/22/2023
+8,desktop,Vidoo,HP EliteBook,ABC123,3/11/2014,4/9/2025,Windows 10,Intel Core i7,6,6/30/2021
+9,desktop,Photobug,Lenovo ThinkCentre,GHI789,9/29/2011,1/13/2024,Ubuntu 20.04,Qualcomm Snapdragon,32,9/15/2022
+10,laptop,Tambee,Lenovo ThinkCentre,DEF456,10/21/2014,2/16/2024,Windows 10,Intel Core i7,17,3/3/2021
+11,scanner,Plambee,Lenovo ThinkCentre,GHI789,1/29/2011,12/5/2025,Windows 10,AMD Ryzen 5,4,11/4/2020
+12,server,Shuffledrive,HP EliteBook,DEF456,10/20/2018,12/4/2025,macOS Big Sur,Intel Core i7,30,8/9/2022
+13,scanner,Yacero,HP EliteBook,DEF456,8/3/2021,4/27/2023,Windows 10,Qualcomm Snapdragon,26,12/20/2022
+14,desktop,Riffpath,HP EliteBook,GHI789,12/21/2012,8/2/2022,macOS Big Sur,AMD Ryzen 5,13,8/4/2023
+15,printer,Skivee,Dell OptiPlex,GHI789,4/20/2010,1/10/2022,Ubuntu 20.04,AMD Ryzen 5,20,10/12/2023
+16,laptop,Zooveo,Lenovo ThinkCentre,GHI789,4/11/2016,11/30/2024,macOS Big Sur,Intel Core i7,30,1/23/2021
+17,desktop,Vidoo,Dell OptiPlex,DEF456,9/1/2010,11/12/2023,macOS Big Sur,AMD Ryzen 5,12,4/13/2021
+18,printer,Blogpad,Dell OptiPlex,ABC123,10/8/2016,11/25/2025,Ubuntu 20.04,Qualcomm Snapdragon,10,4/20/2021
+19,scanner,Photobug,Lenovo ThinkCentre,ABC123,7/10/2016,5/27/2022,macOS Big Sur,Intel Core i7,14,6/28/2020
+20,server,Feedbug,Lenovo ThinkCentre,DEF456,1/31/2010,8/18/2023,Ubuntu 20.04,AMD Ryzen 5,21,9/15/2021
+21,desktop,JumpXS,Lenovo ThinkCentre,GHI789,4/4/2011,6/1/2025,macOS Big Sur,AMD Ryzen 5,4,3/18/2020
+22,laptop,Eidel,Dell OptiPlex,DEF456,11/12/2014,1/12/2023,Windows 10,Intel Core i7,10,5/3/2021
+23,scanner,Livetube,HP EliteBook,ABC123,8/1/2020,3/13/2022,Windows 10,Intel Core i7,19,10/8/2023
+24,desktop,Vinte,Lenovo ThinkCentre,DEF456,2/10/2019,12/11/2025,macOS Big Sur,AMD Ryzen 5,9,1/29/2021
+25,printer,Jazzy,Lenovo ThinkCentre,GHI789,8/23/2017,11/16/2024,macOS Big Sur,AMD Ryzen 5,17,2/20/2023
+26,desktop,Jatri,HP EliteBook,GHI789,10/6/2018,12/27/2022,Windows 10,Intel Core i7,16,2/4/2022
+27,server,Oloo,HP EliteBook,DEF456,11/16/2016,3/26/2024,Ubuntu 20.04,AMD Ryzen 5,20,2/28/2020
+28,scanner,Jabbersphere,Dell OptiPlex,DEF456,5/12/2015,1/15/2022,Windows 10,Qualcomm Snapdragon,28,5/11/2020
+29,server,Edgewire,HP EliteBook,GHI789,4/14/2010,8/11/2024,macOS Big Sur,Qualcomm Snapdragon,16,6/2/2020
+30,desktop,Gevee,Lenovo ThinkCentre,DEF456,8/1/2010,12/7/2023,macOS Big Sur,Qualcomm Snapdragon,19,11/22/2022
+31,laptop,Rhybox,Lenovo ThinkCentre,ABC123,8/2/2012,12/8/2022,Windows 10,Qualcomm Snapdragon,8,4/29/2021
+32,server,Wordtune,Dell OptiPlex,DEF456,6/21/2021,8/20/2024,macOS Big Sur,Intel Core i7,17,8/19/2021
+33,printer,Janyx,HP EliteBook,GHI789,10/30/2017,9/4/2024,Ubuntu 20.04,Intel Core i7,19,3/7/2020
+34,printer,Skipstorm,HP EliteBook,ABC123,8/13/2014,2/25/2024,Ubuntu 20.04,Intel Core i7,23,5/15/2022
+35,server,Zoozzy,Dell OptiPlex,ABC123,2/10/2016,10/12/2023,macOS Big Sur,Intel Core i7,32,6/2/2022
+36,scanner,Thoughtbridge,Dell OptiPlex,ABC123,4/29/2011,10/2/2023,macOS Big Sur,Qualcomm Snapdragon,10,12/26/2021
+37,printer,Tavu,HP EliteBook,ABC123,6/20/2019,3/7/2023,Ubuntu 20.04,AMD Ryzen 5,20,12/15/2022
+38,laptop,Meevee,Dell OptiPlex,GHI789,7/26/2018,3/24/2022,Ubuntu 20.04,Qualcomm Snapdragon,14,1/3/2020
+39,laptop,Meeveo,Lenovo ThinkCentre,DEF456,10/8/2013,8/30/2024,macOS Big Sur,AMD Ryzen 5,13,1/8/2021
+40,laptop,Feedmix,HP EliteBook,GHI789,6/5/2021,11/16/2022,macOS Big Sur,AMD Ryzen 5,20,2/8/2022
+41,laptop,Tekfly,Dell OptiPlex,DEF456,12/8/2021,10/31/2022,macOS Big Sur,Qualcomm Snapdragon,18,12/14/2023
+42,laptop,Wordtune,HP EliteBook,ABC123,7/31/2014,12/10/2024,Windows 10,Qualcomm Snapdragon,20,9/8/2021
+43,server,Devify,HP EliteBook,GHI789,1/29/2021,10/25/2023,macOS Big Sur,AMD Ryzen 5,29,10/16/2021
+44,desktop,Dynabox,Dell OptiPlex,DEF456,9/24/2014,9/23/2024,Ubuntu 20.04,Intel Core i7,26,10/4/2022
+45,server,Nlounge,HP EliteBook,GHI789,5/16/2010,9/16/2025,macOS Big Sur,AMD Ryzen 5,6,10/3/2021
+46,desktop,Livefish,Dell OptiPlex,ABC123,2/20/2015,1/31/2022,Ubuntu 20.04,AMD Ryzen 5,11,10/15/2023
+47,printer,Browsebug,Dell OptiPlex,ABC123,7/12/2016,12/15/2025,Windows 10,Qualcomm Snapdragon,29,10/31/2020
+48,printer,Thoughtworks,HP EliteBook,GHI789,11/26/2013,11/22/2023,Windows 10,Intel Core i7,7,6/23/2023
+49,desktop,Wordify,Lenovo ThinkCentre,ABC123,11/8/2011,5/29/2022,Ubuntu 20.04,Qualcomm Snapdragon,6,12/6/2022
+50,desktop,Bluejam,HP EliteBook,DEF456,9/22/2017,6/14/2023,Windows 10,Qualcomm Snapdragon,10,7/16/2020
+51,printer,Katz,Dell OptiPlex,DEF456,6/27/2021,5/22/2022,macOS Big Sur,Intel Core i7,4,3/1/2023
+52,desktop,Browsebug,HP EliteBook,ABC123,9/30/2014,11/13/2022,Ubuntu 20.04,AMD Ryzen 5,14,12/17/2023
+53,laptop,Chatterpoint,Dell OptiPlex,DEF456,8/10/2013,12/5/2025,macOS Big Sur,Qualcomm Snapdragon,11,10/23/2022
+54,printer,Oyoyo,Dell OptiPlex,GHI789,12/17/2016,6/10/2022,Ubuntu 20.04,Intel Core i7,11,3/16/2023
+55,desktop,Skiba,Lenovo ThinkCentre,ABC123,4/28/2012,8/20/2022,Ubuntu 20.04,Qualcomm Snapdragon,11,1/29/2021
+56,scanner,Zoozzy,Dell OptiPlex,DEF456,12/16/2014,12/18/2022,Windows 10,Qualcomm Snapdragon,13,1/22/2022
+57,server,Myworks,Dell OptiPlex,DEF456,6/15/2021,4/8/2025,macOS Big Sur,Qualcomm Snapdragon,11,5/19/2023
+58,scanner,Kamba,HP EliteBook,GHI789,11/7/2011,11/8/2025,macOS Big Sur,AMD Ryzen 5,6,8/13/2020
+59,server,Twinder,Dell OptiPlex,ABC123,11/30/2012,12/6/2023,macOS Big Sur,AMD Ryzen 5,18,2/2/2023
+60,laptop,Oodoo,Dell OptiPlex,DEF456,9/5/2017,6/25/2023,macOS Big Sur,Intel Core i7,22,6/14/2020
+61,laptop,Kwinu,Lenovo ThinkCentre,ABC123,7/27/2019,11/15/2022,Ubuntu 20.04,Intel Core i7,13,6/25/2021
+62,desktop,Twitterbridge,Dell OptiPlex,DEF456,4/27/2014,12/4/2023,Ubuntu 20.04,AMD Ryzen 5,5,11/26/2020
+63,scanner,Meemm,Dell OptiPlex,GHI789,5/29/2013,9/26/2024,Windows 10,AMD Ryzen 5,26,3/6/2020
+64,desktop,Wordify,Lenovo ThinkCentre,GHI789,10/26/2013,7/6/2023,Ubuntu 20.04,Intel Core i7,8,12/12/2022
+65,laptop,Leenti,HP EliteBook,DEF456,2/9/2013,10/26/2024,macOS Big Sur,Qualcomm Snapdragon,13,10/2/2021
+66,server,Oyoyo,Lenovo ThinkCentre,ABC123,5/14/2018,6/1/2023,Ubuntu 20.04,Intel Core i7,31,10/7/2022
+67,desktop,Rhycero,HP EliteBook,ABC123,11/16/2010,3/9/2025,Ubuntu 20.04,AMD Ryzen 5,19,7/7/2022
+68,laptop,Yakidoo,Dell OptiPlex,DEF456,10/2/2011,2/23/2024,macOS Big Sur,Qualcomm Snapdragon,7,12/12/2020
+69,scanner,Meemm,Dell OptiPlex,ABC123,6/1/2012,6/22/2025,Ubuntu 20.04,Qualcomm Snapdragon,23,2/27/2022
+70,laptop,Meemm,Dell OptiPlex,GHI789,12/10/2012,11/20/2022,Ubuntu 20.04,AMD Ryzen 5,10,8/30/2022
+71,laptop,Quatz,Dell OptiPlex,ABC123,10/12/2020,10/24/2025,Windows 10,Intel Core i7,25,11/27/2020
+72,printer,Ainyx,Lenovo ThinkCentre,GHI789,12/10/2021,10/28/2022,Ubuntu 20.04,AMD Ryzen 5,4,2/14/2022
+73,laptop,Skinder,HP EliteBook,GHI789,10/17/2014,12/22/2022,Windows 10,Intel Core i7,31,4/22/2020
+74,desktop,Skyndu,Dell OptiPlex,ABC123,5/10/2014,7/15/2025,Windows 10,Intel Core i7,26,4/6/2020
+75,laptop,Twimbo,HP EliteBook,DEF456,10/3/2020,9/25/2022,Ubuntu 20.04,Intel Core i7,28,3/18/2021
+76,laptop,Dynazzy,HP EliteBook,ABC123,11/4/2011,10/12/2023,Ubuntu 20.04,Qualcomm Snapdragon,6,2/10/2022
+77,laptop,Innojam,HP EliteBook,ABC123,3/12/2012,7/3/2023,macOS Big Sur,Intel Core i7,6,8/1/2020
+78,desktop,Tavu,Lenovo ThinkCentre,GHI789,3/27/2021,1/11/2025,Windows 10,AMD Ryzen 5,25,3/19/2023
+79,server,Livetube,HP EliteBook,GHI789,10/22/2018,1/12/2024,macOS Big Sur,Qualcomm Snapdragon,27,7/28/2021
+80,desktop,Bluezoom,HP EliteBook,DEF456,11/13/2020,1/13/2023,macOS Big Sur,Qualcomm Snapdragon,8,7/10/2023
+81,laptop,Fiveclub,Dell OptiPlex,DEF456,7/28/2020,12/19/2022,macOS Big Sur,AMD Ryzen 5,11,1/11/2021
+82,desktop,Voomm,HP EliteBook,ABC123,3/30/2017,9/30/2023,Windows 10,Qualcomm Snapdragon,17,4/24/2023
+83,laptop,Skaboo,Lenovo ThinkCentre,GHI789,1/14/2017,12/15/2025,Ubuntu 20.04,Intel Core i7,32,10/6/2022
+84,server,Rhyzio,Dell OptiPlex,GHI789,8/30/2019,12/30/2025,macOS Big Sur,Intel Core i7,14,6/2/2020
+85,scanner,Kazu,HP EliteBook,ABC123,4/3/2013,10/29/2022,Ubuntu 20.04,AMD Ryzen 5,22,1/31/2023
+86,printer,Edgewire,HP EliteBook,ABC123,6/7/2018,1/13/2023,Ubuntu 20.04,Intel Core i7,19,12/11/2021
+87,server,Thoughtstorm,HP EliteBook,ABC123,7/26/2012,1/31/2024,macOS Big Sur,Intel Core i7,24,11/19/2022
+88,scanner,Browsetype,Lenovo ThinkCentre,ABC123,12/29/2010,7/23/2024,Windows 10,AMD Ryzen 5,26,3/30/2021
+89,desktop,Kamba,Lenovo ThinkCentre,DEF456,7/26/2015,5/18/2024,Windows 10,Intel Core i7,30,2/11/2021
+90,printer,Fivechat,HP EliteBook,DEF456,6/24/2015,7/27/2025,macOS Big Sur,Intel Core i7,25,4/4/2021
+91,scanner,Trilith,HP EliteBook,DEF456,2/10/2012,3/26/2023,Ubuntu 20.04,Intel Core i7,21,3/15/2022
+92,desktop,Jaxnation,Dell OptiPlex,DEF456,9/16/2015,11/19/2024,macOS Big Sur,Qualcomm Snapdragon,18,10/11/2022
+93,desktop,BlogXS,HP EliteBook,ABC123,11/29/2011,9/4/2025,macOS Big Sur,AMD Ryzen 5,21,6/13/2021
+94,laptop,Topicware,Lenovo ThinkCentre,GHI789,5/13/2017,7/16/2025,Ubuntu 20.04,AMD Ryzen 5,8,2/1/2020
+95,server,Quinu,HP EliteBook,GHI789,6/4/2018,8/5/2022,Ubuntu 20.04,Intel Core i7,14,5/6/2020
+96,server,Miboo,HP EliteBook,DEF456,3/8/2014,9/23/2025,Windows 10,AMD Ryzen 5,24,6/26/2022
+97,desktop,Quatz,Dell OptiPlex,GHI789,3/25/2010,2/19/2024,Ubuntu 20.04,Qualcomm Snapdragon,32,8/18/2021
+98,desktop,Devpoint,HP EliteBook,DEF456,5/5/2015,11/11/2025,macOS Big Sur,Qualcomm Snapdragon,15,12/6/2020
+99,printer,Edgetag,HP EliteBook,ABC123,6/22/2016,6/20/2025,macOS Big Sur,AMD Ryzen 5,9,11/12/2022
+100,scanner,Youfeed,Dell OptiPlex,DEF456,5/4/2011,5/5/2024,macOS Big Sur,Qualcomm Snapdragon,5,8/9/2021
+101,server,Wikido,HP EliteBook,DEF456,8/9/2015,9/11/2023,macOS Big Sur,AMD Ryzen 5,15,4/21/2023
+102,printer,Twinte,Dell OptiPlex,ABC123,3/30/2020,6/21/2022,macOS Big Sur,AMD Ryzen 5,30,10/26/2020
+103,scanner,Skidoo,Lenovo ThinkCentre,DEF456,3/28/2017,6/10/2025,macOS Big Sur,Qualcomm Snapdragon,28,5/29/2023
+104,scanner,Bluejam,Dell OptiPlex,GHI789,10/9/2013,2/29/2024,macOS Big Sur,Intel Core i7,17,4/18/2022
+105,printer,Babbleset,Lenovo ThinkCentre,DEF456,3/7/2013,9/23/2023,Ubuntu 20.04,Intel Core i7,5,12/10/2022
+106,server,Mudo,Dell OptiPlex,ABC123,5/4/2019,9/4/2024,Ubuntu 20.04,Intel Core i7,20,5/9/2022
+107,server,Realcube,Lenovo ThinkCentre,ABC123,6/30/2019,8/28/2022,macOS Big Sur,Intel Core i7,19,8/22/2023
+108,laptop,Voonix,Dell OptiPlex,GHI789,3/29/2015,12/22/2023,macOS Big Sur,Intel Core i7,28,8/7/2022
+109,scanner,Shuffledrive,HP EliteBook,GHI789,1/11/2014,8/12/2025,macOS Big Sur,AMD Ryzen 5,10,6/23/2022
+110,laptop,Devcast,Dell OptiPlex,ABC123,8/12/2017,5/27/2025,macOS Big Sur,Intel Core i7,9,4/6/2021
+111,printer,Photobug,Dell OptiPlex,DEF456,8/30/2020,1/9/2025,macOS Big Sur,Qualcomm Snapdragon,10,12/8/2022
+112,printer,Realbridge,HP EliteBook,DEF456,10/1/2014,12/7/2022,macOS Big Sur,Intel Core i7,27,1/26/2024
+113,laptop,Demizz,Dell OptiPlex,GHI789,12/2/2019,8/2/2022,macOS Big Sur,Qualcomm Snapdragon,7,7/3/2021
+114,desktop,Trunyx,Lenovo ThinkCentre,DEF456,8/13/2017,9/20/2024,Ubuntu 20.04,Qualcomm Snapdragon,25,12/16/2023
+115,laptop,Divavu,HP EliteBook,ABC123,5/16/2016,11/30/2024,Ubuntu 20.04,Intel Core i7,19,10/15/2023
+116,laptop,Browsezoom,Dell OptiPlex,DEF456,5/27/2021,2/11/2025,Ubuntu 20.04,AMD Ryzen 5,27,5/8/2020
+117,scanner,Voolia,HP EliteBook,ABC123,6/12/2010,3/7/2024,Ubuntu 20.04,Qualcomm Snapdragon,6,10/22/2020
+118,printer,Bubblebox,HP EliteBook,ABC123,4/26/2017,4/18/2024,macOS Big Sur,Intel Core i7,29,9/19/2022
+119,server,Yodo,Lenovo ThinkCentre,GHI789,12/13/2013,3/23/2022,macOS Big Sur,Qualcomm Snapdragon,14,6/13/2021
+120,printer,Katz,HP EliteBook,ABC123,12/12/2012,11/18/2024,Windows 10,Qualcomm Snapdragon,11,5/5/2023
+121,laptop,Browsedrive,Dell OptiPlex,GHI789,5/25/2019,3/24/2022,Windows 10,Qualcomm Snapdragon,10,4/18/2023
+122,laptop,Demivee,Lenovo ThinkCentre,ABC123,6/18/2016,11/3/2023,Windows 10,AMD Ryzen 5,27,8/2/2022
+123,desktop,Flashset,Dell OptiPlex,ABC123,4/18/2016,11/1/2024,macOS Big Sur,Qualcomm Snapdragon,22,7/27/2023
+124,desktop,Tanoodle,HP EliteBook,ABC123,5/24/2018,3/10/2025,macOS Big Sur,AMD Ryzen 5,11,4/26/2020
+125,server,Pixoboo,HP EliteBook,GHI789,5/9/2011,7/2/2023,macOS Big Sur,Qualcomm Snapdragon,11,10/1/2022
+126,server,Twitternation,HP EliteBook,ABC123,2/9/2013,12/25/2023,Windows 10,AMD Ryzen 5,29,6/20/2022
+127,laptop,Devpoint,HP EliteBook,DEF456,4/25/2011,4/26/2023,Windows 10,Qualcomm Snapdragon,11,1/3/2024
+128,laptop,Linkbridge,HP EliteBook,ABC123,10/24/2011,10/24/2024,Windows 10,AMD Ryzen 5,32,6/15/2022
+129,scanner,Yakijo,Lenovo ThinkCentre,GHI789,12/1/2019,6/11/2022,Ubuntu 20.04,Qualcomm Snapdragon,15,6/13/2023
+130,printer,Ooba,Dell OptiPlex,ABC123,6/24/2013,4/9/2022,Windows 10,Intel Core i7,18,9/24/2020
+131,laptop,Camimbo,Dell OptiPlex,DEF456,1/8/2014,7/14/2023,Ubuntu 20.04,AMD Ryzen 5,14,1/15/2021
+132,laptop,Voolia,Dell OptiPlex,GHI789,5/26/2016,6/4/2023,Windows 10,Intel Core i7,15,6/30/2023
+133,desktop,Quamba,HP EliteBook,ABC123,3/4/2012,10/18/2022,Windows 10,AMD Ryzen 5,18,9/13/2020
+134,laptop,Shuffletag,Dell OptiPlex,ABC123,3/11/2013,3/6/2024,Windows 10,Intel Core i7,17,8/21/2021
+135,server,Jaxspan,HP EliteBook,GHI789,5/11/2012,12/2/2022,macOS Big Sur,Qualcomm Snapdragon,25,9/19/2022
+136,scanner,Skiptube,HP EliteBook,DEF456,7/21/2020,3/2/2024,Ubuntu 20.04,Qualcomm Snapdragon,6,6/20/2022
+137,desktop,Skyble,HP EliteBook,GHI789,6/28/2012,12/20/2025,Windows 10,Intel Core i7,30,1/26/2022
+138,desktop,Muxo,Lenovo ThinkCentre,ABC123,9/7/2019,6/6/2022,macOS Big Sur,Intel Core i7,31,6/21/2021
+139,server,Bubblebox,HP EliteBook,DEF456,6/23/2013,9/21/2023,Ubuntu 20.04,Intel Core i7,29,8/4/2021
+140,printer,Kazu,Lenovo ThinkCentre,ABC123,9/6/2014,3/8/2023,Windows 10,Intel Core i7,27,5/24/2021
+141,server,Vinder,HP EliteBook,GHI789,4/29/2021,9/8/2025,macOS Big Sur,AMD Ryzen 5,31,11/15/2023
+142,desktop,Zoombox,HP EliteBook,DEF456,12/6/2013,9/30/2023,Windows 10,Qualcomm Snapdragon,4,9/11/2023
+143,desktop,Jaloo,HP EliteBook,ABC123,1/4/2021,11/3/2024,Windows 10,Intel Core i7,5,8/10/2023
+144,laptop,Geba,Dell OptiPlex,DEF456,12/10/2013,6/28/2022,Windows 10,Intel Core i7,32,5/22/2022
+145,desktop,Centizu,Lenovo ThinkCentre,ABC123,12/2/2017,1/30/2024,macOS Big Sur,Intel Core i7,22,7/12/2021
+146,scanner,Demizz,Dell OptiPlex,ABC123,11/3/2018,5/30/2022,macOS Big Sur,AMD Ryzen 5,12,8/5/2023
+147,laptop,Shufflebeat,HP EliteBook,DEF456,4/2/2011,4/11/2024,macOS Big Sur,Intel Core i7,23,2/28/2023
+148,server,Dabtype,Lenovo ThinkCentre,DEF456,11/23/2011,10/19/2023,macOS Big Sur,Intel Core i7,9,4/30/2021
+149,server,Rhyzio,Lenovo ThinkCentre,ABC123,8/6/2018,4/5/2023,macOS Big Sur,Intel Core i7,32,1/28/2020
+150,scanner,Youopia,Dell OptiPlex,DEF456,12/29/2012,8/8/2022,Windows 10,Qualcomm Snapdragon,10,6/23/2021
+151,laptop,Photobean,Dell OptiPlex,DEF456,12/26/2019,5/9/2024,Ubuntu 20.04,Qualcomm Snapdragon,11,12/31/2022
+152,scanner,Teklist,HP EliteBook,ABC123,10/29/2013,2/25/2023,Windows 10,Qualcomm Snapdragon,27,11/27/2022
+153,printer,Edgepulse,Lenovo ThinkCentre,ABC123,3/18/2011,12/26/2022,macOS Big Sur,Qualcomm Snapdragon,28,2/6/2024
+154,scanner,Mydo,HP EliteBook,DEF456,12/31/2017,5/23/2022,Windows 10,AMD Ryzen 5,5,2/1/2023
+155,printer,Zoonoodle,Lenovo ThinkCentre,DEF456,3/1/2015,9/20/2022,Ubuntu 20.04,AMD Ryzen 5,16,5/29/2020
+156,scanner,Livetube,Lenovo ThinkCentre,ABC123,1/15/2020,8/10/2025,macOS Big Sur,Qualcomm Snapdragon,11,6/8/2023
+157,desktop,Dablist,HP EliteBook,ABC123,2/12/2018,12/4/2023,Windows 10,AMD Ryzen 5,17,11/23/2020
+158,printer,Avamm,Lenovo ThinkCentre,ABC123,2/3/2016,9/11/2023,Ubuntu 20.04,Intel Core i7,12,11/20/2021
+159,server,Buzzbean,HP EliteBook,DEF456,5/27/2010,7/14/2022,macOS Big Sur,AMD Ryzen 5,18,8/27/2022
+160,printer,Lazzy,HP EliteBook,GHI789,3/8/2011,5/5/2024,Ubuntu 20.04,AMD Ryzen 5,26,9/4/2022
+161,laptop,Zoozzy,Lenovo ThinkCentre,DEF456,8/12/2019,5/31/2022,Windows 10,AMD Ryzen 5,18,10/19/2023
+162,desktop,Centimia,HP EliteBook,ABC123,8/7/2014,2/29/2024,macOS Big Sur,AMD Ryzen 5,32,6/26/2020
+163,scanner,Vitz,Dell OptiPlex,ABC123,12/6/2015,2/16/2024,macOS Big Sur,AMD Ryzen 5,25,6/17/2020
+164,server,Devcast,Lenovo ThinkCentre,ABC123,10/30/2014,6/13/2023,Windows 10,Qualcomm Snapdragon,5,10/10/2023
+165,desktop,Twinte,Dell OptiPlex,DEF456,2/4/2016,12/29/2023,macOS Big Sur,Qualcomm Snapdragon,22,2/8/2021
+166,laptop,Nlounge,Dell OptiPlex,GHI789,2/20/2013,8/4/2022,Ubuntu 20.04,Intel Core i7,4,11/29/2023
+167,server,Thoughtbridge,Dell OptiPlex,ABC123,6/25/2018,3/8/2023,Windows 10,Qualcomm Snapdragon,27,7/31/2020
+168,desktop,Divavu,HP EliteBook,GHI789,12/14/2019,11/16/2024,Windows 10,AMD Ryzen 5,13,8/22/2022
+169,laptop,Twimbo,Dell OptiPlex,ABC123,6/12/2013,11/14/2025,Windows 10,Intel Core i7,15,8/6/2020
+170,scanner,Buzzbean,HP EliteBook,GHI789,12/20/2012,7/2/2023,Ubuntu 20.04,AMD Ryzen 5,16,10/28/2022
+171,printer,Yadel,Lenovo ThinkCentre,DEF456,12/13/2010,10/3/2025,macOS Big Sur,Intel Core i7,27,9/18/2023
+172,laptop,Edgewire,Dell OptiPlex,GHI789,1/15/2014,9/24/2022,Ubuntu 20.04,AMD Ryzen 5,13,9/28/2021
+173,printer,Katz,Dell OptiPlex,DEF456,4/23/2015,12/24/2022,macOS Big Sur,AMD Ryzen 5,5,5/1/2023
+174,server,Skyvu,Lenovo ThinkCentre,ABC123,8/7/2020,1/28/2024,Ubuntu 20.04,Qualcomm Snapdragon,15,12/19/2022
+175,laptop,Devpulse,Dell OptiPlex,GHI789,12/6/2019,2/19/2025,Ubuntu 20.04,Intel Core i7,8,3/18/2022
+176,printer,Twitterwire,Lenovo ThinkCentre,GHI789,4/27/2015,6/12/2025,Ubuntu 20.04,AMD Ryzen 5,16,1/13/2021
+177,server,Realfire,HP EliteBook,DEF456,11/11/2011,4/27/2023,Ubuntu 20.04,Intel Core i7,21,11/28/2020
+178,desktop,Skiptube,Dell OptiPlex,ABC123,3/25/2018,8/14/2025,Ubuntu 20.04,Intel Core i7,13,9/9/2021
+179,printer,Riffpedia,Lenovo ThinkCentre,DEF456,5/7/2010,6/19/2024,Windows 10,Qualcomm Snapdragon,22,12/20/2020
+180,server,Eadel,HP EliteBook,GHI789,10/21/2019,7/19/2023,Ubuntu 20.04,AMD Ryzen 5,29,2/27/2021
+181,desktop,Lazz,Lenovo ThinkCentre,ABC123,10/27/2021,9/7/2025,Ubuntu 20.04,Intel Core i7,27,10/21/2023
+182,scanner,Plambee,Lenovo ThinkCentre,GHI789,3/21/2012,7/22/2023,macOS Big Sur,Qualcomm Snapdragon,18,9/22/2022
+183,server,Trilith,HP EliteBook,GHI789,10/13/2021,4/14/2023,Ubuntu 20.04,Intel Core i7,15,4/14/2023
+184,desktop,Devbug,HP EliteBook,DEF456,3/17/2012,10/1/2025,Windows 10,AMD Ryzen 5,16,11/1/2021
+185,server,Pixoboo,HP EliteBook,DEF456,12/29/2016,2/1/2025,Ubuntu 20.04,Intel Core i7,18,4/26/2023
+186,desktop,Twiyo,Lenovo ThinkCentre,GHI789,1/10/2014,3/11/2025,Windows 10,Intel Core i7,8,10/28/2022
+187,desktop,Meejo,HP EliteBook,ABC123,9/11/2013,4/29/2022,macOS Big Sur,Intel Core i7,25,11/18/2021
+188,printer,Tekfly,HP EliteBook,DEF456,2/4/2014,6/10/2022,Ubuntu 20.04,AMD Ryzen 5,8,8/8/2022
+189,laptop,Fliptune,HP EliteBook,DEF456,10/6/2018,10/16/2023,macOS Big Sur,AMD Ryzen 5,17,3/5/2022
+190,printer,Demivee,HP EliteBook,GHI789,7/16/2011,1/25/2025,Windows 10,Qualcomm Snapdragon,12,4/3/2023
+191,server,Ooba,Dell OptiPlex,GHI789,4/21/2020,9/14/2022,macOS Big Sur,Qualcomm Snapdragon,8,11/10/2020
+192,laptop,Agimba,Lenovo ThinkCentre,ABC123,10/10/2017,5/13/2025,macOS Big Sur,Qualcomm Snapdragon,26,12/5/2021
+193,desktop,Buzzbean,Lenovo ThinkCentre,ABC123,12/4/2020,5/1/2022,Windows 10,AMD Ryzen 5,13,2/5/2022
+194,desktop,Voomm,HP EliteBook,ABC123,12/2/2010,5/20/2024,macOS Big Sur,Qualcomm Snapdragon,14,10/26/2022
+195,printer,Jatri,HP EliteBook,ABC123,12/16/2020,4/20/2024,Windows 10,AMD Ryzen 5,32,5/8/2022
+196,printer,Wikivu,HP EliteBook,GHI789,3/20/2010,7/6/2025,Ubuntu 20.04,Qualcomm Snapdragon,8,1/20/2022
+197,laptop,Kwilith,Lenovo ThinkCentre,ABC123,11/22/2013,2/2/2025,Windows 10,Intel Core i7,4,12/1/2023
+198,scanner,Oyondu,HP EliteBook,DEF456,11/9/2019,1/14/2025,macOS Big Sur,Qualcomm Snapdragon,20,2/21/2022
+199,desktop,Skilith,Lenovo ThinkCentre,ABC123,6/25/2015,11/12/2024,Windows 10,Intel Core i7,25,12/14/2023
+200,laptop,Realbuzz,HP EliteBook,DEF456,6/8/2018,7/7/2025,Windows 10,Intel Core i7,27,7/15/2022
+201,server,Kwideo,HP EliteBook,GHI789,2/1/2014,10/17/2022,macOS Big Sur,Intel Core i7,16,6/24/2023
+202,laptop,Tambee,Dell OptiPlex,DEF456,10/30/2011,10/30/2025,Windows 10,AMD Ryzen 5,4,5/18/2023
+203,server,Brightdog,HP EliteBook,ABC123,10/31/2014,2/5/2024,Ubuntu 20.04,AMD Ryzen 5,31,4/15/2021
+204,server,Devcast,HP EliteBook,GHI789,2/9/2019,6/5/2025,Ubuntu 20.04,Intel Core i7,5,3/3/2021
+205,scanner,Mydo,HP EliteBook,GHI789,2/16/2019,11/17/2024,macOS Big Sur,Qualcomm Snapdragon,21,7/23/2022
+206,server,Yodel,HP EliteBook,GHI789,2/16/2011,5/4/2022,Windows 10,Intel Core i7,11,2/19/2022
+207,scanner,Chatterpoint,Dell OptiPlex,ABC123,4/27/2016,12/5/2024,Windows 10,Qualcomm Snapdragon,31,1/27/2023
+208,server,Photofeed,HP EliteBook,ABC123,1/10/2013,1/24/2024,macOS Big Sur,AMD Ryzen 5,7,11/28/2023
+209,laptop,Photospace,Lenovo ThinkCentre,DEF456,4/4/2015,11/25/2025,Ubuntu 20.04,Intel Core i7,31,10/6/2020
+210,desktop,Oloo,Lenovo ThinkCentre,DEF456,2/3/2021,9/7/2024,Ubuntu 20.04,AMD Ryzen 5,20,8/28/2020
+211,scanner,Trupe,HP EliteBook,ABC123,4/21/2019,9/25/2024,Windows 10,Qualcomm Snapdragon,11,2/8/2022
+212,server,Agivu,Lenovo ThinkCentre,ABC123,2/8/2020,12/30/2025,Ubuntu 20.04,AMD Ryzen 5,28,5/8/2022
+213,scanner,Quatz,Lenovo ThinkCentre,ABC123,12/11/2012,5/2/2025,macOS Big Sur,Qualcomm Snapdragon,16,7/1/2021
+214,laptop,Gigashots,Dell OptiPlex,GHI789,7/3/2010,4/30/2025,Windows 10,AMD Ryzen 5,25,8/1/2021
+215,server,Muxo,HP EliteBook,DEF456,5/5/2012,2/13/2024,Ubuntu 20.04,Qualcomm Snapdragon,27,5/24/2020
+216,scanner,Skajo,Dell OptiPlex,ABC123,11/9/2012,4/18/2022,macOS Big Sur,AMD Ryzen 5,26,1/18/2020
+217,laptop,Oloo,Dell OptiPlex,DEF456,8/18/2019,1/19/2024,macOS Big Sur,AMD Ryzen 5,12,2/22/2020
+218,server,Cogibox,Lenovo ThinkCentre,ABC123,10/2/2020,8/6/2022,Ubuntu 20.04,Intel Core i7,6,12/23/2020
+219,scanner,Talane,HP EliteBook,DEF456,2/10/2019,4/7/2022,macOS Big Sur,Intel Core i7,25,11/19/2021
+220,server,Eare,Dell OptiPlex,ABC123,10/17/2021,3/10/2025,macOS Big Sur,Intel Core i7,6,3/22/2021
+221,scanner,Yakijo,Lenovo ThinkCentre,ABC123,5/18/2019,7/3/2023,macOS Big Sur,Qualcomm Snapdragon,32,6/13/2021
+222,server,Edgeblab,Dell OptiPlex,ABC123,5/19/2015,11/12/2025,Windows 10,Qualcomm Snapdragon,13,11/29/2023
+223,scanner,Dabshots,Lenovo ThinkCentre,GHI789,5/27/2021,3/5/2022,macOS Big Sur,AMD Ryzen 5,6,1/27/2020
+224,server,Centizu,Lenovo ThinkCentre,ABC123,6/18/2013,7/10/2024,Windows 10,AMD Ryzen 5,23,1/15/2024
+225,scanner,Thoughtstorm,Dell OptiPlex,GHI789,6/17/2017,10/3/2022,Ubuntu 20.04,Qualcomm Snapdragon,6,7/10/2023
+226,desktop,Midel,Lenovo ThinkCentre,DEF456,12/30/2012,9/6/2025,macOS Big Sur,AMD Ryzen 5,27,2/24/2020
+227,scanner,Eabox,Lenovo ThinkCentre,GHI789,2/1/2016,1/12/2023,macOS Big Sur,Qualcomm Snapdragon,32,3/20/2023
+228,scanner,Katz,Dell OptiPlex,GHI789,2/4/2018,12/14/2025,Ubuntu 20.04,Qualcomm Snapdragon,7,4/24/2023
+229,desktop,Jabbersphere,Lenovo ThinkCentre,GHI789,5/17/2020,6/30/2022,Windows 10,Intel Core i7,13,9/24/2023
+230,printer,Ooba,HP EliteBook,GHI789,11/2/2019,3/13/2023,macOS Big Sur,Qualcomm Snapdragon,19,9/30/2020
+231,printer,Voomm,Lenovo ThinkCentre,GHI789,12/19/2019,9/10/2023,Windows 10,Qualcomm Snapdragon,25,6/24/2021
+232,server,Flipstorm,Lenovo ThinkCentre,GHI789,5/8/2015,7/27/2025,Windows 10,AMD Ryzen 5,15,10/5/2023
+233,laptop,Zoomdog,Lenovo ThinkCentre,GHI789,2/7/2012,7/16/2023,Windows 10,Qualcomm Snapdragon,21,9/23/2022
+234,printer,Brightbean,Lenovo ThinkCentre,GHI789,12/14/2015,8/16/2025,Windows 10,Intel Core i7,6,11/2/2020
+235,scanner,Rhybox,Dell OptiPlex,DEF456,2/19/2012,1/25/2025,Ubuntu 20.04,Intel Core i7,19,3/25/2023
+236,scanner,Tanoodle,Lenovo ThinkCentre,GHI789,1/8/2019,8/6/2023,macOS Big Sur,Qualcomm Snapdragon,11,9/2/2020
+237,desktop,Zooxo,Dell OptiPlex,DEF456,7/22/2021,4/10/2025,Ubuntu 20.04,Qualcomm Snapdragon,16,8/17/2020
+238,desktop,Dynazzy,Lenovo ThinkCentre,GHI789,12/14/2019,4/13/2024,macOS Big Sur,Intel Core i7,7,7/15/2021
+239,scanner,Voolith,Dell OptiPlex,GHI789,1/22/2014,5/9/2022,Windows 10,AMD Ryzen 5,21,3/27/2021
+240,printer,Pixoboo,Lenovo ThinkCentre,GHI789,8/4/2010,12/2/2022,Ubuntu 20.04,Intel Core i7,7,11/24/2020
+241,desktop,Devpoint,Dell OptiPlex,DEF456,8/7/2018,10/28/2025,Windows 10,Qualcomm Snapdragon,6,12/4/2023
+242,desktop,Wordware,Dell OptiPlex,ABC123,3/31/2018,3/10/2024,macOS Big Sur,AMD Ryzen 5,20,11/9/2022
+243,server,Photobean,Dell OptiPlex,ABC123,3/19/2021,3/28/2025,Ubuntu 20.04,AMD Ryzen 5,12,2/20/2022
+244,server,Skinder,HP EliteBook,ABC123,6/21/2016,9/3/2022,Ubuntu 20.04,AMD Ryzen 5,31,9/14/2021
+245,desktop,Jabbertype,Lenovo ThinkCentre,DEF456,8/19/2017,4/7/2023,Windows 10,Intel Core i7,29,11/6/2023
+246,printer,Snaptags,HP EliteBook,ABC123,12/28/2013,8/22/2025,Windows 10,AMD Ryzen 5,5,6/11/2022
+247,scanner,Realpoint,Lenovo ThinkCentre,ABC123,3/30/2018,6/16/2024,macOS Big Sur,Qualcomm Snapdragon,11,10/6/2021
+248,laptop,Leexo,Lenovo ThinkCentre,GHI789,9/15/2010,3/20/2025,macOS Big Sur,Intel Core i7,27,11/15/2022
+249,laptop,Edgeclub,Dell OptiPlex,DEF456,3/20/2018,2/23/2025,Ubuntu 20.04,Intel Core i7,14,3/23/2022
+250,laptop,Yakitri,Dell OptiPlex,ABC123,8/22/2013,1/22/2024,Ubuntu 20.04,AMD Ryzen 5,26,8/13/2023
+251,server,Babbleopia,Dell OptiPlex,ABC123,7/9/2021,9/4/2024,macOS Big Sur,Qualcomm Snapdragon,15,7/18/2022
+252,laptop,Chatterbridge,Dell OptiPlex,ABC123,4/1/2015,7/18/2025,Windows 10,Qualcomm Snapdragon,23,5/21/2020
+253,desktop,Chatterbridge,Dell OptiPlex,DEF456,3/30/2015,2/22/2024,Windows 10,Qualcomm Snapdragon,21,1/20/2024
+254,scanner,Topdrive,Dell OptiPlex,GHI789,10/2/2011,5/30/2024,Ubuntu 20.04,Qualcomm Snapdragon,17,10/27/2022
+255,server,Fadeo,Dell OptiPlex,GHI789,8/14/2010,9/18/2024,macOS Big Sur,AMD Ryzen 5,22,12/22/2023
+256,server,Yodel,HP EliteBook,DEF456,4/13/2021,10/30/2025,Windows 10,Qualcomm Snapdragon,12,9/7/2020
+257,laptop,Brainsphere,Lenovo ThinkCentre,DEF456,10/17/2020,10/14/2025,Ubuntu 20.04,Intel Core i7,31,9/5/2021
+258,server,Yodoo,Dell OptiPlex,DEF456,5/22/2011,8/4/2023,Windows 10,Qualcomm Snapdragon,11,12/23/2023
+259,server,Snaptags,HP EliteBook,ABC123,7/22/2020,3/24/2025,Ubuntu 20.04,Intel Core i7,31,1/7/2024
+260,server,Mynte,Lenovo ThinkCentre,ABC123,3/18/2019,6/5/2022,Ubuntu 20.04,Intel Core i7,24,6/24/2020
+261,printer,Oyoba,Dell OptiPlex,GHI789,1/1/2021,5/29/2023,Windows 10,Qualcomm Snapdragon,6,12/25/2022
+262,desktop,Wordpedia,Lenovo ThinkCentre,DEF456,12/9/2021,11/4/2023,Windows 10,AMD Ryzen 5,30,4/15/2023
+263,laptop,Tagchat,HP EliteBook,GHI789,6/28/2013,4/28/2022,macOS Big Sur,Intel Core i7,24,2/28/2021
+264,laptop,Quaxo,Lenovo ThinkCentre,GHI789,9/12/2018,6/8/2022,Windows 10,Qualcomm Snapdragon,27,6/5/2021
+265,scanner,Browseblab,Lenovo ThinkCentre,ABC123,1/21/2017,4/5/2023,Ubuntu 20.04,Qualcomm Snapdragon,11,12/20/2021
+266,desktop,Eamia,HP EliteBook,ABC123,8/30/2019,3/23/2025,Windows 10,AMD Ryzen 5,26,9/23/2023
+267,laptop,Yacero,Lenovo ThinkCentre,GHI789,1/8/2020,10/12/2023,Windows 10,Qualcomm Snapdragon,20,10/30/2023
+268,desktop,Blogtags,Dell OptiPlex,GHI789,10/17/2017,3/6/2023,macOS Big Sur,AMD Ryzen 5,10,8/17/2020
+269,scanner,LiveZ,Dell OptiPlex,GHI789,2/24/2017,5/27/2022,Windows 10,Qualcomm Snapdragon,19,9/27/2020
+270,printer,Skiba,Dell OptiPlex,ABC123,6/6/2013,11/20/2023,macOS Big Sur,AMD Ryzen 5,17,9/23/2023
+271,desktop,Roomm,Lenovo ThinkCentre,GHI789,3/11/2016,8/17/2024,Ubuntu 20.04,Qualcomm Snapdragon,14,7/23/2022
+272,desktop,Abatz,HP EliteBook,GHI789,1/11/2019,2/3/2024,Ubuntu 20.04,AMD Ryzen 5,14,4/14/2020
+273,desktop,Fivespan,Lenovo ThinkCentre,ABC123,5/13/2016,6/17/2022,Ubuntu 20.04,Intel Core i7,28,2/20/2022
+274,laptop,Realmix,Dell OptiPlex,GHI789,12/12/2016,10/5/2023,Windows 10,Intel Core i7,13,11/13/2022
+275,laptop,Oyoyo,Dell OptiPlex,ABC123,1/9/2010,7/23/2023,macOS Big Sur,Intel Core i7,5,8/9/2020
+276,printer,Devify,Lenovo ThinkCentre,GHI789,5/7/2016,2/6/2024,Windows 10,AMD Ryzen 5,9,1/24/2022
+277,desktop,Edgeclub,HP EliteBook,ABC123,1/11/2013,11/17/2022,Ubuntu 20.04,Intel Core i7,10,7/24/2022
+278,scanner,Fadeo,HP EliteBook,GHI789,1/23/2020,10/17/2024,Windows 10,Intel Core i7,12,6/3/2020
+279,desktop,Leexo,Dell OptiPlex,DEF456,4/5/2017,12/14/2022,Ubuntu 20.04,AMD Ryzen 5,20,12/5/2023
+280,laptop,Rhycero,Lenovo ThinkCentre,DEF456,12/14/2021,7/19/2025,macOS Big Sur,Intel Core i7,22,4/18/2022
+281,printer,Shuffletag,Dell OptiPlex,DEF456,3/26/2020,7/2/2023,Windows 10,Intel Core i7,13,8/22/2020
+282,printer,Shuffledrive,Dell OptiPlex,DEF456,1/21/2018,7/9/2025,Ubuntu 20.04,AMD Ryzen 5,22,11/30/2021
+283,laptop,Twitternation,HP EliteBook,ABC123,12/5/2019,7/1/2022,macOS Big Sur,Qualcomm Snapdragon,32,11/27/2022
+284,scanner,Centimia,HP EliteBook,ABC123,8/24/2012,8/3/2025,Ubuntu 20.04,Qualcomm Snapdragon,13,2/20/2023
+285,laptop,Mudo,HP EliteBook,GHI789,3/9/2015,12/25/2024,Windows 10,Intel Core i7,18,10/28/2023
+286,scanner,Yodoo,Lenovo ThinkCentre,ABC123,9/18/2010,7/25/2024,Windows 10,Qualcomm Snapdragon,22,6/10/2021
+287,laptop,Oyoloo,HP EliteBook,DEF456,9/1/2012,8/29/2023,Ubuntu 20.04,Intel Core i7,7,7/28/2022
+288,desktop,Edgepulse,Dell OptiPlex,GHI789,12/28/2010,9/30/2022,Windows 10,Intel Core i7,29,7/16/2020
+289,desktop,Minyx,HP EliteBook,GHI789,11/30/2015,11/23/2023,Windows 10,AMD Ryzen 5,24,5/13/2023
+290,laptop,Flipopia,Dell OptiPlex,DEF456,2/9/2015,10/25/2023,Windows 10,Qualcomm Snapdragon,9,1/22/2024
+291,printer,Photospace,Lenovo ThinkCentre,GHI789,7/1/2012,8/2/2025,Ubuntu 20.04,Intel Core i7,12,1/30/2020
+292,server,Brightdog,Lenovo ThinkCentre,ABC123,6/18/2016,8/27/2025,macOS Big Sur,Qualcomm Snapdragon,18,8/3/2020
+293,laptop,Omba,Dell OptiPlex,ABC123,5/3/2013,10/27/2022,Windows 10,Intel Core i7,23,3/29/2023
+294,desktop,Livefish,Dell OptiPlex,DEF456,9/2/2016,10/26/2023,Ubuntu 20.04,Intel Core i7,7,4/28/2023
+295,scanner,Omba,Lenovo ThinkCentre,GHI789,9/14/2015,4/16/2022,macOS Big Sur,AMD Ryzen 5,18,1/6/2024
+296,scanner,Twitterbeat,Lenovo ThinkCentre,GHI789,2/26/2012,5/29/2025,Ubuntu 20.04,Qualcomm Snapdragon,6,3/3/2021
+297,server,Wikizz,Lenovo ThinkCentre,DEF456,8/26/2014,10/9/2023,Windows 10,Qualcomm Snapdragon,9,3/16/2022
+298,scanner,Fanoodle,Lenovo ThinkCentre,GHI789,3/24/2017,8/14/2024,Windows 10,AMD Ryzen 5,22,11/18/2022
+299,server,Youspan,HP EliteBook,DEF456,3/20/2021,4/5/2025,macOS Big Sur,Qualcomm Snapdragon,4,12/20/2020
+300,scanner,Skynoodle,Dell OptiPlex,GHI789,12/15/2017,8/14/2025,macOS Big Sur,Qualcomm Snapdragon,25,3/24/2023
+301,printer,Edgeblab,HP EliteBook,ABC123,11/8/2020,7/27/2022,macOS Big Sur,Qualcomm Snapdragon,32,7/23/2021
+302,desktop,Innotype,Dell OptiPlex,GHI789,4/28/2016,12/18/2025,Ubuntu 20.04,Intel Core i7,12,3/2/2023
+303,server,Centizu,Dell OptiPlex,ABC123,10/6/2014,2/1/2025,macOS Big Sur,Intel Core i7,29,11/13/2022
+304,scanner,Fivechat,Dell OptiPlex,ABC123,1/18/2015,1/16/2023,macOS Big Sur,AMD Ryzen 5,8,9/8/2023
+305,server,Ozu,Lenovo ThinkCentre,GHI789,1/19/2015,1/17/2023,Windows 10,AMD Ryzen 5,12,12/10/2022
+306,scanner,Realblab,Lenovo ThinkCentre,GHI789,8/9/2014,8/22/2023,Ubuntu 20.04,Qualcomm Snapdragon,27,7/15/2023
+307,desktop,Quimba,Dell OptiPlex,DEF456,2/5/2016,8/17/2024,macOS Big Sur,Intel Core i7,26,10/21/2021
+308,scanner,Skajo,HP EliteBook,ABC123,6/10/2019,7/18/2025,macOS Big Sur,Intel Core i7,18,12/22/2021
+309,server,Oyoyo,HP EliteBook,DEF456,3/22/2016,5/1/2025,Windows 10,Qualcomm Snapdragon,24,2/7/2021
+310,scanner,Skinder,Lenovo ThinkCentre,DEF456,11/24/2017,6/22/2022,macOS Big Sur,Qualcomm Snapdragon,27,10/11/2022
+311,laptop,Eadel,Lenovo ThinkCentre,DEF456,2/27/2019,1/29/2023,Ubuntu 20.04,Intel Core i7,4,3/15/2022
+312,desktop,Plambee,Dell OptiPlex,ABC123,12/18/2015,10/25/2024,Windows 10,Intel Core i7,12,5/31/2022
+313,scanner,Feedfire,HP EliteBook,ABC123,9/4/2012,5/31/2025,Ubuntu 20.04,Intel Core i7,31,2/4/2024
+314,printer,Kazu,Lenovo ThinkCentre,DEF456,7/27/2010,8/26/2025,macOS Big Sur,AMD Ryzen 5,32,2/15/2021
+315,desktop,Thoughtbridge,HP EliteBook,GHI789,5/12/2015,6/2/2023,macOS Big Sur,Qualcomm Snapdragon,5,11/15/2022
+316,printer,Quimm,Dell OptiPlex,ABC123,6/1/2021,5/27/2025,Windows 10,Intel Core i7,15,5/6/2020
+317,scanner,Lajo,Lenovo ThinkCentre,GHI789,12/23/2011,8/3/2025,macOS Big Sur,Qualcomm Snapdragon,8,7/23/2022
+318,printer,Jamia,Dell OptiPlex,ABC123,4/19/2017,6/1/2024,Windows 10,AMD Ryzen 5,28,7/13/2021
+319,scanner,Meeveo,Lenovo ThinkCentre,DEF456,5/27/2011,10/6/2024,Windows 10,AMD Ryzen 5,20,11/24/2023
+320,desktop,Photobean,Lenovo ThinkCentre,DEF456,9/6/2010,9/1/2025,Ubuntu 20.04,AMD Ryzen 5,5,8/3/2022
+321,server,Zoovu,HP EliteBook,GHI789,7/2/2014,5/2/2024,macOS Big Sur,Intel Core i7,6,12/26/2020
+322,scanner,Skimia,Dell OptiPlex,DEF456,2/19/2012,7/31/2022,Ubuntu 20.04,Qualcomm Snapdragon,22,5/21/2022
+323,laptop,Innojam,HP EliteBook,DEF456,4/26/2012,4/10/2023,macOS Big Sur,AMD Ryzen 5,20,3/29/2020
+324,printer,Plajo,Dell OptiPlex,ABC123,6/27/2020,5/21/2022,Windows 10,Qualcomm Snapdragon,30,12/13/2021
+325,desktop,Abatz,Dell OptiPlex,DEF456,3/7/2019,7/2/2025,macOS Big Sur,Qualcomm Snapdragon,15,11/13/2021
+326,scanner,Camido,Dell OptiPlex,ABC123,3/13/2013,2/21/2024,Windows 10,AMD Ryzen 5,29,11/25/2021
+327,server,Thoughtblab,HP EliteBook,ABC123,9/4/2018,10/9/2022,Ubuntu 20.04,AMD Ryzen 5,22,12/24/2020
+328,server,Yodel,HP EliteBook,GHI789,8/15/2018,9/23/2024,Ubuntu 20.04,Intel Core i7,16,3/13/2023
+329,server,Snaptags,HP EliteBook,ABC123,1/19/2019,4/12/2024,macOS Big Sur,Intel Core i7,13,8/4/2022
+330,desktop,Tavu,Lenovo ThinkCentre,DEF456,8/19/2011,6/27/2023,Ubuntu 20.04,AMD Ryzen 5,5,1/20/2024
+331,server,Leenti,Dell OptiPlex,ABC123,8/5/2016,2/21/2022,Windows 10,AMD Ryzen 5,26,9/10/2023
+332,server,Brightdog,Dell OptiPlex,DEF456,1/1/2012,4/29/2025,macOS Big Sur,Intel Core i7,9,4/17/2020
+333,printer,Topicstorm,Dell OptiPlex,GHI789,10/7/2018,7/17/2024,macOS Big Sur,AMD Ryzen 5,24,2/5/2023
+334,laptop,Gigabox,Dell OptiPlex,ABC123,1/7/2014,6/30/2022,Windows 10,Intel Core i7,6,1/10/2023
+335,scanner,Topicshots,HP EliteBook,DEF456,7/4/2016,11/22/2025,macOS Big Sur,Intel Core i7,18,7/26/2021
+336,desktop,Eazzy,Lenovo ThinkCentre,GHI789,2/28/2018,6/30/2025,Ubuntu 20.04,Qualcomm Snapdragon,24,3/30/2023
+337,scanner,Wikibox,HP EliteBook,GHI789,9/1/2011,9/2/2025,macOS Big Sur,AMD Ryzen 5,18,1/12/2024
+338,desktop,Twinder,Lenovo ThinkCentre,GHI789,2/17/2016,6/20/2025,macOS Big Sur,Intel Core i7,27,3/26/2021
+339,printer,Layo,Dell OptiPlex,ABC123,9/11/2012,10/9/2023,macOS Big Sur,AMD Ryzen 5,7,10/29/2023
+340,server,Riffpedia,Dell OptiPlex,ABC123,6/3/2013,6/1/2023,macOS Big Sur,Qualcomm Snapdragon,25,5/21/2020
+341,laptop,Fivechat,Dell OptiPlex,GHI789,7/21/2012,5/18/2024,Ubuntu 20.04,Intel Core i7,28,6/25/2023
+342,laptop,Oyoba,Dell OptiPlex,GHI789,10/5/2018,3/11/2025,macOS Big Sur,Qualcomm Snapdragon,18,7/8/2023
+343,printer,Oyoyo,HP EliteBook,GHI789,7/20/2011,5/27/2025,Windows 10,AMD Ryzen 5,29,12/20/2022
+344,scanner,Aimbo,Dell OptiPlex,ABC123,6/1/2011,9/10/2024,macOS Big Sur,Intel Core i7,8,2/26/2023
+345,desktop,Tagchat,Dell OptiPlex,DEF456,6/23/2013,5/3/2024,Ubuntu 20.04,AMD Ryzen 5,13,9/17/2023
+346,scanner,Yakidoo,HP EliteBook,ABC123,3/27/2018,2/15/2022,Ubuntu 20.04,AMD Ryzen 5,29,5/13/2023
+347,desktop,Demivee,HP EliteBook,ABC123,3/9/2013,10/20/2024,Windows 10,Intel Core i7,17,6/23/2021
+348,laptop,Topdrive,Dell OptiPlex,ABC123,9/5/2019,4/26/2025,Windows 10,AMD Ryzen 5,21,3/23/2022
+349,laptop,Dabshots,HP EliteBook,ABC123,1/23/2012,2/1/2025,Windows 10,AMD Ryzen 5,22,1/29/2020
+350,server,Meedoo,Dell OptiPlex,DEF456,8/17/2010,7/5/2024,Windows 10,AMD Ryzen 5,17,1/26/2020
+351,scanner,Kwinu,Dell OptiPlex,DEF456,5/7/2014,12/24/2024,Ubuntu 20.04,Qualcomm Snapdragon,8,2/2/2021
+352,desktop,Meejo,Dell OptiPlex,DEF456,12/1/2017,2/14/2024,Ubuntu 20.04,AMD Ryzen 5,12,7/24/2023
+353,scanner,Rhynyx,HP EliteBook,GHI789,1/24/2021,9/25/2023,Windows 10,AMD Ryzen 5,19,10/11/2022
+354,printer,Eazzy,Lenovo ThinkCentre,GHI789,3/26/2013,5/7/2023,macOS Big Sur,Intel Core i7,14,2/21/2023
+355,server,Zoonoodle,HP EliteBook,ABC123,2/18/2012,9/5/2023,macOS Big Sur,AMD Ryzen 5,31,12/15/2023
+356,desktop,Wikibox,Dell OptiPlex,ABC123,8/13/2017,2/11/2023,Ubuntu 20.04,Intel Core i7,32,11/23/2022
+357,laptop,Yakijo,HP EliteBook,DEF456,6/9/2015,12/7/2024,Windows 10,Intel Core i7,14,5/16/2023
+358,printer,Gigashots,Lenovo ThinkCentre,DEF456,1/18/2011,9/14/2022,Windows 10,Intel Core i7,11,1/14/2022
+359,scanner,DabZ,Dell OptiPlex,DEF456,3/18/2012,10/27/2022,Ubuntu 20.04,Qualcomm Snapdragon,19,8/9/2021
+360,printer,Trudoo,HP EliteBook,DEF456,10/17/2010,12/31/2022,macOS Big Sur,Qualcomm Snapdragon,25,2/5/2023
+361,printer,Babbleblab,Dell OptiPlex,ABC123,12/27/2013,1/30/2025,Windows 10,Intel Core i7,32,12/27/2021
+362,server,Voonix,Dell OptiPlex,ABC123,1/28/2011,9/6/2022,macOS Big Sur,Intel Core i7,13,9/18/2020
+363,server,Fatz,Dell OptiPlex,DEF456,6/17/2018,3/6/2022,Ubuntu 20.04,AMD Ryzen 5,29,7/12/2022
+364,scanner,Blogspan,HP EliteBook,DEF456,9/10/2014,10/8/2022,Windows 10,AMD Ryzen 5,26,6/16/2022
+365,server,Skyble,Dell OptiPlex,GHI789,10/19/2019,2/8/2024,Windows 10,AMD Ryzen 5,24,8/18/2023
+366,printer,Meeveo,Lenovo ThinkCentre,DEF456,3/29/2021,7/9/2025,macOS Big Sur,Intel Core i7,28,9/19/2021
+367,desktop,Photofeed,Dell OptiPlex,GHI789,2/26/2018,5/4/2024,macOS Big Sur,Intel Core i7,16,10/7/2022
+368,laptop,Skyndu,HP EliteBook,GHI789,9/27/2021,11/22/2023,Windows 10,Qualcomm Snapdragon,17,1/31/2022
+369,laptop,Browseblab,Dell OptiPlex,ABC123,11/29/2016,5/18/2022,macOS Big Sur,Qualcomm Snapdragon,32,7/7/2022
+370,desktop,Jaxnation,HP EliteBook,GHI789,7/6/2018,11/19/2023,macOS Big Sur,Qualcomm Snapdragon,9,8/29/2022
+371,laptop,Jabbersphere,Lenovo ThinkCentre,DEF456,10/6/2015,10/28/2024,macOS Big Sur,Qualcomm Snapdragon,25,11/6/2020
+372,printer,Abata,Dell OptiPlex,GHI789,3/3/2014,11/18/2022,Windows 10,Qualcomm Snapdragon,17,3/29/2020
+373,printer,Npath,Dell OptiPlex,GHI789,5/24/2010,2/1/2022,macOS Big Sur,AMD Ryzen 5,13,3/14/2021
+374,server,Feedmix,Dell OptiPlex,GHI789,5/26/2015,6/1/2025,Windows 10,Intel Core i7,19,2/10/2022
+375,desktop,Buzzbean,HP EliteBook,ABC123,12/9/2010,3/19/2025,Windows 10,Intel Core i7,4,6/23/2023
+376,printer,Mydeo,HP EliteBook,ABC123,3/5/2017,4/18/2025,macOS Big Sur,Intel Core i7,26,2/4/2024
+377,desktop,Ainyx,HP EliteBook,GHI789,11/24/2010,3/21/2024,Windows 10,Qualcomm Snapdragon,31,5/3/2022
+378,desktop,Gabspot,HP EliteBook,DEF456,10/1/2019,4/22/2025,Windows 10,Qualcomm Snapdragon,14,6/14/2020
+379,server,Vipe,Lenovo ThinkCentre,ABC123,5/4/2010,6/8/2025,macOS Big Sur,AMD Ryzen 5,16,3/10/2021
+380,desktop,Thoughtsphere,Lenovo ThinkCentre,ABC123,9/13/2012,4/16/2025,macOS Big Sur,Intel Core i7,12,8/21/2022
+381,server,Skipfire,Dell OptiPlex,GHI789,11/7/2013,11/12/2023,Ubuntu 20.04,Qualcomm Snapdragon,26,6/13/2022
+382,printer,Oyoloo,Dell OptiPlex,GHI789,3/21/2011,2/25/2022,Windows 10,Qualcomm Snapdragon,11,5/16/2022
+383,server,Realcube,Dell OptiPlex,GHI789,11/27/2015,10/16/2023,Windows 10,Qualcomm Snapdragon,12,10/29/2021
+384,desktop,Wordpedia,Dell OptiPlex,GHI789,11/16/2018,4/19/2023,Ubuntu 20.04,Qualcomm Snapdragon,10,11/26/2023
+385,server,Oyoyo,Lenovo ThinkCentre,ABC123,8/21/2020,12/16/2022,Ubuntu 20.04,AMD Ryzen 5,19,3/14/2020
+386,server,Photofeed,HP EliteBook,GHI789,11/9/2020,10/26/2024,Ubuntu 20.04,AMD Ryzen 5,17,4/15/2021
+387,desktop,DabZ,HP EliteBook,ABC123,9/8/2016,8/14/2022,Ubuntu 20.04,Intel Core i7,15,8/20/2021
+388,scanner,Flashpoint,HP EliteBook,ABC123,9/21/2019,8/20/2022,Windows 10,AMD Ryzen 5,30,11/19/2022
+389,laptop,Oloo,Dell OptiPlex,GHI789,9/1/2011,11/30/2024,Windows 10,Intel Core i7,26,3/16/2023
+390,scanner,Gigabox,Dell OptiPlex,DEF456,4/17/2011,1/28/2024,macOS Big Sur,Qualcomm Snapdragon,6,6/16/2022
+391,printer,Flashspan,HP EliteBook,GHI789,5/6/2010,10/10/2022,Windows 10,Qualcomm Snapdragon,16,4/29/2023
+392,server,Viva,Lenovo ThinkCentre,DEF456,9/17/2010,12/27/2023,Windows 10,Qualcomm Snapdragon,9,9/27/2023
+393,desktop,Cogidoo,Lenovo ThinkCentre,DEF456,12/24/2014,5/4/2025,Ubuntu 20.04,Qualcomm Snapdragon,30,5/17/2023
+394,server,Jayo,Dell OptiPlex,ABC123,2/9/2013,6/15/2022,macOS Big Sur,Qualcomm Snapdragon,15,9/27/2022
+395,scanner,Voolith,HP EliteBook,DEF456,7/3/2010,7/6/2025,Ubuntu 20.04,AMD Ryzen 5,17,1/7/2021
+396,server,Thoughtworks,Lenovo ThinkCentre,GHI789,8/20/2014,3/19/2023,macOS Big Sur,AMD Ryzen 5,26,3/28/2021
+397,printer,Thoughtmix,Dell OptiPlex,GHI789,11/26/2012,11/17/2025,Ubuntu 20.04,AMD Ryzen 5,9,6/26/2020
+398,desktop,Centizu,HP EliteBook,ABC123,3/15/2012,7/1/2024,Windows 10,Intel Core i7,30,9/7/2022
+399,server,Dabfeed,Dell OptiPlex,GHI789,8/1/2021,8/20/2024,macOS Big Sur,Intel Core i7,13,4/13/2021
+400,printer,Lazzy,Lenovo ThinkCentre,GHI789,5/15/2016,10/24/2025,Ubuntu 20.04,Qualcomm Snapdragon,14,2/5/2020
+401,laptop,Gigashots,HP EliteBook,ABC123,11/15/2018,2/17/2022,macOS Big Sur,Qualcomm Snapdragon,13,8/16/2023
+402,laptop,Abata,HP EliteBook,DEF456,11/15/2015,9/2/2025,Ubuntu 20.04,AMD Ryzen 5,27,11/26/2023
+403,laptop,Blogspan,Lenovo ThinkCentre,GHI789,8/27/2013,9/27/2023,macOS Big Sur,Qualcomm Snapdragon,11,10/28/2020
+404,printer,Eabox,Dell OptiPlex,DEF456,2/20/2015,10/31/2024,Windows 10,Intel Core i7,16,5/18/2020
+405,server,Youtags,Lenovo ThinkCentre,ABC123,9/4/2012,7/8/2022,Ubuntu 20.04,Qualcomm Snapdragon,30,3/3/2021
+406,printer,Reallinks,Lenovo ThinkCentre,ABC123,12/1/2019,11/20/2025,Ubuntu 20.04,Intel Core i7,12,8/21/2020
+407,desktop,Zoomdog,HP EliteBook,ABC123,3/23/2019,1/31/2025,macOS Big Sur,AMD Ryzen 5,10,5/3/2020
+408,scanner,Browsezoom,HP EliteBook,DEF456,11/21/2014,2/23/2022,Windows 10,AMD Ryzen 5,15,1/24/2023
+409,scanner,Edgeclub,Lenovo ThinkCentre,DEF456,9/5/2018,6/12/2024,Windows 10,Intel Core i7,27,8/23/2020
+410,laptop,Cogidoo,Lenovo ThinkCentre,ABC123,9/30/2016,8/16/2025,Windows 10,AMD Ryzen 5,18,9/16/2021
+411,laptop,Tazzy,HP EliteBook,DEF456,3/3/2018,11/15/2023,macOS Big Sur,AMD Ryzen 5,11,8/25/2022
+412,server,Snaptags,Lenovo ThinkCentre,GHI789,9/20/2016,1/18/2025,macOS Big Sur,Qualcomm Snapdragon,12,8/2/2022
+413,laptop,Fivechat,Dell OptiPlex,DEF456,12/24/2010,12/5/2023,Ubuntu 20.04,Qualcomm Snapdragon,21,1/16/2020
+414,server,Quinu,HP EliteBook,GHI789,12/23/2014,12/1/2023,macOS Big Sur,Qualcomm Snapdragon,16,5/28/2023
+415,scanner,Jaxnation,Lenovo ThinkCentre,DEF456,4/29/2010,2/9/2024,Ubuntu 20.04,Intel Core i7,18,6/15/2021
+416,desktop,Vinder,Dell OptiPlex,GHI789,9/28/2021,9/6/2025,macOS Big Sur,Intel Core i7,27,8/20/2023
+417,scanner,Twitternation,HP EliteBook,ABC123,5/30/2017,11/9/2024,macOS Big Sur,Qualcomm Snapdragon,17,10/29/2021
+418,laptop,Tazz,Lenovo ThinkCentre,GHI789,6/4/2020,9/11/2024,Windows 10,AMD Ryzen 5,31,5/18/2023
+419,server,Devpulse,Lenovo ThinkCentre,GHI789,9/8/2016,2/7/2022,Windows 10,Qualcomm Snapdragon,23,8/19/2021
+420,server,Tagcat,HP EliteBook,GHI789,5/13/2021,2/9/2025,Ubuntu 20.04,Qualcomm Snapdragon,21,7/6/2020
+421,desktop,Tagpad,Dell OptiPlex,ABC123,6/20/2020,5/21/2023,Ubuntu 20.04,AMD Ryzen 5,17,6/22/2021
+422,printer,Meezzy,HP EliteBook,ABC123,6/3/2020,1/22/2022,Windows 10,Intel Core i7,20,9/26/2023
+423,server,Skyba,Lenovo ThinkCentre,GHI789,11/14/2018,3/30/2023,Windows 10,Qualcomm Snapdragon,5,8/26/2023
+424,laptop,Skipfire,Dell OptiPlex,DEF456,12/18/2016,12/6/2022,macOS Big Sur,AMD Ryzen 5,30,6/19/2022
+425,desktop,Camido,Lenovo ThinkCentre,GHI789,10/1/2010,8/30/2023,macOS Big Sur,AMD Ryzen 5,32,11/23/2021
+426,printer,Centizu,Dell OptiPlex,GHI789,9/28/2010,6/3/2023,Windows 10,Intel Core i7,11,12/8/2020
+427,laptop,Oyonder,Lenovo ThinkCentre,GHI789,10/22/2020,9/6/2025,Ubuntu 20.04,AMD Ryzen 5,32,10/13/2023
+428,laptop,Feedfire,HP EliteBook,DEF456,5/2/2010,8/19/2025,Ubuntu 20.04,Intel Core i7,29,6/8/2023
+429,desktop,Viva,Lenovo ThinkCentre,GHI789,9/4/2010,11/21/2022,Ubuntu 20.04,Qualcomm Snapdragon,15,11/1/2022
+430,laptop,Latz,HP EliteBook,GHI789,7/30/2017,8/13/2022,Windows 10,Intel Core i7,29,4/2/2022
+431,laptop,Eazzy,HP EliteBook,DEF456,11/6/2013,3/7/2023,Ubuntu 20.04,AMD Ryzen 5,22,8/10/2020
+432,laptop,Kamba,HP EliteBook,ABC123,3/14/2015,1/12/2023,Windows 10,AMD Ryzen 5,13,7/5/2020
+433,server,Zoonder,HP EliteBook,ABC123,6/3/2019,8/4/2025,Ubuntu 20.04,Intel Core i7,20,5/24/2020
+434,laptop,Kanoodle,HP EliteBook,ABC123,2/14/2013,7/2/2025,Windows 10,Qualcomm Snapdragon,30,11/23/2022
+435,printer,Miboo,HP EliteBook,DEF456,4/13/2013,9/3/2023,macOS Big Sur,AMD Ryzen 5,5,4/24/2021
+436,scanner,Buzzbean,HP EliteBook,ABC123,1/4/2014,4/27/2025,Windows 10,Qualcomm Snapdragon,32,7/20/2022
+437,laptop,Skynoodle,Lenovo ThinkCentre,DEF456,3/29/2012,4/10/2025,macOS Big Sur,Intel Core i7,15,8/27/2021
+438,desktop,Devpoint,Dell OptiPlex,ABC123,4/7/2019,11/23/2023,Ubuntu 20.04,Qualcomm Snapdragon,30,11/30/2021
+439,scanner,Mycat,Dell OptiPlex,ABC123,11/20/2011,7/17/2025,macOS Big Sur,Intel Core i7,4,10/7/2021
+440,printer,Topicstorm,HP EliteBook,ABC123,3/8/2015,10/11/2025,Windows 10,Intel Core i7,23,7/22/2022
+441,scanner,Livefish,HP EliteBook,ABC123,8/4/2010,7/2/2023,Windows 10,Qualcomm Snapdragon,14,2/17/2020
+442,server,Thoughtbridge,Lenovo ThinkCentre,GHI789,10/1/2016,11/4/2025,Ubuntu 20.04,AMD Ryzen 5,24,5/6/2022
+443,desktop,Yabox,Lenovo ThinkCentre,DEF456,10/17/2010,2/15/2023,Ubuntu 20.04,Intel Core i7,21,8/17/2023
+444,scanner,Yadel,Dell OptiPlex,ABC123,1/7/2014,11/21/2023,Windows 10,Intel Core i7,18,12/1/2022
+445,laptop,Gabvine,Dell OptiPlex,ABC123,2/9/2018,3/10/2025,macOS Big Sur,Qualcomm Snapdragon,19,8/31/2020
+446,server,Dabjam,HP EliteBook,ABC123,9/16/2020,11/22/2023,Ubuntu 20.04,Qualcomm Snapdragon,31,11/13/2021
+447,scanner,Gabcube,Dell OptiPlex,GHI789,9/10/2011,9/6/2025,macOS Big Sur,Qualcomm Snapdragon,32,11/27/2022
+448,server,Twitterworks,HP EliteBook,GHI789,6/7/2021,7/13/2023,macOS Big Sur,Intel Core i7,30,7/20/2022
+449,desktop,Babbleblab,HP EliteBook,GHI789,4/21/2010,12/6/2022,Ubuntu 20.04,Intel Core i7,26,4/28/2020
+450,printer,Abata,Dell OptiPlex,ABC123,6/25/2010,12/24/2025,Ubuntu 20.04,Intel Core i7,17,3/5/2022
+451,desktop,Brainbox,Lenovo ThinkCentre,DEF456,4/12/2011,5/23/2024,Ubuntu 20.04,AMD Ryzen 5,31,12/31/2020
+452,scanner,Skaboo,Dell OptiPlex,DEF456,2/19/2015,3/16/2025,Ubuntu 20.04,Qualcomm Snapdragon,24,11/1/2023
+453,scanner,Babbleset,HP EliteBook,ABC123,12/22/2015,6/2/2023,Ubuntu 20.04,Intel Core i7,13,8/15/2022
+454,desktop,Jatri,Dell OptiPlex,GHI789,11/30/2018,4/26/2025,Windows 10,Intel Core i7,30,10/21/2023
+455,desktop,Pixonyx,Lenovo ThinkCentre,GHI789,6/25/2011,8/19/2024,Windows 10,Intel Core i7,25,1/26/2021
+456,laptop,Babbleopia,Dell OptiPlex,DEF456,1/15/2016,11/12/2022,macOS Big Sur,Intel Core i7,10,12/17/2021
+457,scanner,Edgewire,HP EliteBook,ABC123,5/17/2020,9/19/2024,Ubuntu 20.04,AMD Ryzen 5,6,7/12/2020
+458,printer,Chatterbridge,Lenovo ThinkCentre,ABC123,1/7/2018,12/15/2025,Ubuntu 20.04,AMD Ryzen 5,21,3/25/2022
+459,desktop,Innojam,HP EliteBook,ABC123,10/31/2020,9/18/2025,Ubuntu 20.04,Intel Core i7,10,10/12/2023
+460,server,Oyoba,Lenovo ThinkCentre,ABC123,5/30/2018,8/18/2023,macOS Big Sur,Intel Core i7,19,9/19/2022
+461,laptop,Thoughtworks,Dell OptiPlex,GHI789,4/7/2018,11/30/2022,Ubuntu 20.04,Intel Core i7,32,1/6/2024
+462,desktop,Quinu,Dell OptiPlex,ABC123,7/23/2014,4/17/2023,Windows 10,Qualcomm Snapdragon,17,3/30/2022
+463,desktop,Rhyloo,Dell OptiPlex,ABC123,6/4/2014,8/23/2023,Windows 10,Qualcomm Snapdragon,18,9/15/2021
+464,printer,Quatz,Lenovo ThinkCentre,DEF456,9/26/2010,4/19/2024,Ubuntu 20.04,Intel Core i7,27,12/28/2023
+465,laptop,Aivee,Lenovo ThinkCentre,ABC123,5/31/2010,8/28/2023,Windows 10,AMD Ryzen 5,22,8/1/2020
+466,laptop,Ooba,Lenovo ThinkCentre,ABC123,9/29/2019,10/24/2023,Windows 10,Intel Core i7,10,6/2/2023
+467,server,Jabbercube,Lenovo ThinkCentre,DEF456,2/6/2019,12/30/2023,Windows 10,Intel Core i7,23,9/9/2020
+468,server,Voomm,Dell OptiPlex,DEF456,1/23/2021,1/11/2024,macOS Big Sur,Intel Core i7,6,12/21/2021
+469,printer,Yakijo,Lenovo ThinkCentre,GHI789,9/26/2012,6/17/2022,Ubuntu 20.04,Qualcomm Snapdragon,7,7/22/2020
+470,server,Vipe,Dell OptiPlex,ABC123,6/4/2018,12/12/2023,Ubuntu 20.04,Qualcomm Snapdragon,32,2/11/2022
+471,printer,Tagtune,Dell OptiPlex,DEF456,4/3/2016,1/14/2024,macOS Big Sur,Qualcomm Snapdragon,18,12/12/2023
+472,printer,Jaxworks,HP EliteBook,ABC123,4/10/2020,3/15/2025,Ubuntu 20.04,Intel Core i7,7,9/18/2020
+473,printer,Gigaclub,Dell OptiPlex,DEF456,5/8/2017,4/28/2024,Windows 10,AMD Ryzen 5,13,10/2/2020
+474,desktop,Aimbu,Lenovo ThinkCentre,DEF456,4/14/2012,3/13/2022,macOS Big Sur,Intel Core i7,32,12/17/2020
+475,printer,Agimba,Lenovo ThinkCentre,DEF456,10/30/2020,11/12/2023,Ubuntu 20.04,Intel Core i7,20,10/28/2020
+476,server,Reallinks,Lenovo ThinkCentre,ABC123,9/21/2021,9/23/2022,Windows 10,Intel Core i7,29,7/10/2021
+477,printer,Fatz,Dell OptiPlex,ABC123,5/6/2014,7/2/2025,Windows 10,Qualcomm Snapdragon,7,10/15/2023
+478,laptop,Skajo,HP EliteBook,ABC123,3/30/2018,4/25/2022,Windows 10,Qualcomm Snapdragon,32,7/14/2020
+479,scanner,Thoughtstorm,Lenovo ThinkCentre,DEF456,8/2/2010,3/1/2022,macOS Big Sur,AMD Ryzen 5,22,11/1/2021
+480,desktop,Flipbug,HP EliteBook,ABC123,6/20/2017,7/11/2024,macOS Big Sur,Intel Core i7,19,7/28/2021
+481,laptop,Tagpad,HP EliteBook,ABC123,1/3/2011,2/27/2024,Ubuntu 20.04,AMD Ryzen 5,29,9/21/2023
+482,server,Jabbercube,HP EliteBook,ABC123,10/3/2018,1/20/2023,Ubuntu 20.04,Qualcomm Snapdragon,20,11/6/2021
+483,desktop,Livetube,HP EliteBook,DEF456,7/13/2017,3/6/2025,Windows 10,AMD Ryzen 5,31,2/10/2021
+484,printer,Izio,Lenovo ThinkCentre,ABC123,9/18/2010,10/14/2025,macOS Big Sur,AMD Ryzen 5,20,6/18/2021
+485,laptop,Oyondu,Dell OptiPlex,GHI789,2/20/2015,8/9/2024,Ubuntu 20.04,Qualcomm Snapdragon,5,6/26/2021
+486,server,Meembee,Lenovo ThinkCentre,GHI789,8/9/2014,12/29/2024,Ubuntu 20.04,AMD Ryzen 5,8,5/6/2020
+487,laptop,DabZ,Lenovo ThinkCentre,DEF456,7/19/2020,1/11/2023,Ubuntu 20.04,AMD Ryzen 5,20,3/1/2021
+488,printer,Dabvine,HP EliteBook,DEF456,10/7/2020,12/29/2023,Windows 10,Intel Core i7,24,6/17/2022
+489,server,Edgetag,HP EliteBook,GHI789,11/19/2010,5/3/2024,macOS Big Sur,Qualcomm Snapdragon,5,7/18/2023
+490,laptop,Kaymbo,Lenovo ThinkCentre,GHI789,4/15/2020,3/27/2022,Ubuntu 20.04,AMD Ryzen 5,16,12/20/2021
+491,desktop,Twinder,Lenovo ThinkCentre,ABC123,12/27/2018,2/26/2024,Windows 10,Intel Core i7,27,9/12/2020
+492,laptop,Shufflebeat,Dell OptiPlex,DEF456,11/17/2020,2/24/2025,Windows 10,Qualcomm Snapdragon,10,12/12/2022
+493,server,Meetz,HP EliteBook,ABC123,9/6/2011,10/3/2024,Ubuntu 20.04,Qualcomm Snapdragon,5,4/26/2023
+494,laptop,Twinder,HP EliteBook,DEF456,11/7/2010,6/26/2024,Windows 10,Intel Core i7,28,8/23/2022
+495,scanner,Skyndu,Lenovo ThinkCentre,GHI789,6/23/2020,4/9/2022,macOS Big Sur,Qualcomm Snapdragon,10,11/13/2023
+496,scanner,Rhyloo,Lenovo ThinkCentre,GHI789,10/28/2016,7/5/2024,Ubuntu 20.04,Intel Core i7,17,2/18/2021
+497,laptop,Skiba,HP EliteBook,DEF456,5/10/2010,2/6/2023,Windows 10,Qualcomm Snapdragon,21,6/8/2023
+498,printer,Fiveclub,HP EliteBook,GHI789,8/24/2020,7/12/2022,Ubuntu 20.04,Qualcomm Snapdragon,15,10/23/2023
+499,printer,Linkbridge,Lenovo ThinkCentre,DEF456,11/10/2014,2/10/2025,macOS Big Sur,AMD Ryzen 5,24,7/14/2023
+500,scanner,Jabbertype,HP EliteBook,ABC123,10/18/2016,8/4/2022,macOS Big Sur,Intel Core i7,14,7/10/2022
+501,desktop,Fivespan,Lenovo ThinkCentre,DEF456,1/14/2012,5/24/2025,macOS Big Sur,Intel Core i7,11,5/24/2023
+502,scanner,Oyonder,HP EliteBook,GHI789,7/11/2010,3/12/2023,macOS Big Sur,AMD Ryzen 5,17,2/16/2021
+503,server,Roodel,Dell OptiPlex,GHI789,7/28/2021,8/1/2023,Windows 10,AMD Ryzen 5,8,8/26/2023
+504,laptop,Katz,Dell OptiPlex,DEF456,4/19/2011,12/3/2025,Windows 10,AMD Ryzen 5,11,12/23/2021
+505,server,Jaxbean,Lenovo ThinkCentre,GHI789,1/11/2020,2/29/2024,macOS Big Sur,Intel Core i7,7,1/16/2021
+506,laptop,Brainverse,HP EliteBook,GHI789,1/23/2010,2/13/2025,macOS Big Sur,AMD Ryzen 5,29,4/10/2023
+507,server,Brightbean,Dell OptiPlex,ABC123,4/25/2015,8/19/2023,Ubuntu 20.04,Intel Core i7,16,5/5/2020
+508,scanner,Shufflester,Lenovo ThinkCentre,GHI789,5/2/2017,12/16/2024,Ubuntu 20.04,Qualcomm Snapdragon,13,11/16/2023
+509,printer,Quire,Dell OptiPlex,ABC123,5/21/2016,1/4/2025,Windows 10,Intel Core i7,6,6/18/2023
+510,laptop,Livefish,HP EliteBook,DEF456,5/29/2011,5/5/2022,macOS Big Sur,Qualcomm Snapdragon,5,10/22/2022
+511,scanner,Aimbu,HP EliteBook,DEF456,2/13/2016,6/12/2024,Ubuntu 20.04,Intel Core i7,11,10/24/2022
+512,server,Yambee,HP EliteBook,DEF456,6/26/2011,9/1/2025,macOS Big Sur,Intel Core i7,8,8/16/2022
+513,server,Topiczoom,Lenovo ThinkCentre,GHI789,8/26/2015,12/13/2024,macOS Big Sur,Qualcomm Snapdragon,19,1/19/2023
+514,scanner,Rhyzio,Lenovo ThinkCentre,GHI789,7/18/2021,3/7/2022,macOS Big Sur,Qualcomm Snapdragon,10,3/30/2021
+515,scanner,Innotype,Dell OptiPlex,GHI789,9/15/2019,6/21/2022,Windows 10,AMD Ryzen 5,9,10/10/2021
+516,desktop,Youbridge,Dell OptiPlex,ABC123,10/24/2020,5/26/2022,Ubuntu 20.04,AMD Ryzen 5,19,7/26/2020
+517,laptop,Livetube,Dell OptiPlex,GHI789,1/31/2018,5/10/2025,Windows 10,AMD Ryzen 5,24,9/7/2021
+518,printer,Skidoo,HP EliteBook,GHI789,12/20/2016,10/26/2025,Windows 10,AMD Ryzen 5,14,4/2/2022
+519,scanner,Yamia,Lenovo ThinkCentre,ABC123,10/23/2012,1/31/2025,Windows 10,AMD Ryzen 5,17,7/28/2023
+520,laptop,Fivebridge,HP EliteBook,GHI789,9/19/2020,4/13/2025,Ubuntu 20.04,AMD Ryzen 5,27,1/3/2024
+521,printer,Photobug,Lenovo ThinkCentre,ABC123,7/31/2010,10/22/2024,Ubuntu 20.04,Intel Core i7,29,7/26/2022
+522,laptop,Gabcube,Lenovo ThinkCentre,DEF456,5/6/2013,4/20/2022,Windows 10,AMD Ryzen 5,4,5/25/2021
+523,scanner,Eadel,Dell OptiPlex,DEF456,6/9/2010,4/13/2024,Windows 10,Intel Core i7,31,1/12/2024
+524,scanner,Twiyo,Dell OptiPlex,DEF456,1/29/2021,8/1/2025,Windows 10,AMD Ryzen 5,17,6/20/2022
+525,laptop,Gabtune,Lenovo ThinkCentre,ABC123,11/11/2013,1/28/2025,macOS Big Sur,Qualcomm Snapdragon,14,7/12/2020
+526,printer,Yambee,Dell OptiPlex,GHI789,9/6/2010,3/15/2024,Windows 10,AMD Ryzen 5,6,4/30/2020
+527,printer,Dablist,Dell OptiPlex,ABC123,7/16/2010,2/17/2024,macOS Big Sur,Qualcomm Snapdragon,8,9/9/2021
+528,server,Flipbug,Lenovo ThinkCentre,DEF456,5/9/2012,9/11/2022,Windows 10,AMD Ryzen 5,17,1/31/2020
+529,laptop,Kimia,Lenovo ThinkCentre,ABC123,6/13/2020,5/19/2025,macOS Big Sur,Qualcomm Snapdragon,17,5/17/2020
+530,scanner,Voolia,HP EliteBook,GHI789,3/15/2017,10/12/2022,Ubuntu 20.04,Qualcomm Snapdragon,20,6/24/2023
+531,laptop,Nlounge,Dell OptiPlex,DEF456,4/1/2012,9/3/2023,macOS Big Sur,Intel Core i7,26,8/11/2023
+532,scanner,Bubblemix,Lenovo ThinkCentre,GHI789,7/20/2013,4/16/2022,Windows 10,AMD Ryzen 5,32,6/13/2022
+533,laptop,Skipstorm,Dell OptiPlex,ABC123,5/21/2021,12/21/2023,macOS Big Sur,Qualcomm Snapdragon,20,9/29/2020
+534,printer,Eayo,Lenovo ThinkCentre,GHI789,2/8/2018,3/28/2022,Windows 10,Intel Core i7,20,8/30/2023
+535,server,Thoughtblab,HP EliteBook,DEF456,6/14/2017,9/23/2022,Ubuntu 20.04,Intel Core i7,19,11/18/2023
+536,desktop,Flashdog,Dell OptiPlex,DEF456,10/16/2016,4/21/2025,macOS Big Sur,Qualcomm Snapdragon,27,2/3/2021
+537,desktop,Dabshots,Dell OptiPlex,GHI789,5/1/2013,11/20/2023,macOS Big Sur,AMD Ryzen 5,11,8/11/2022
+538,scanner,Zoomzone,Lenovo ThinkCentre,ABC123,8/17/2010,11/2/2025,Windows 10,Intel Core i7,23,6/14/2020
+539,scanner,Voomm,Lenovo ThinkCentre,DEF456,5/22/2016,2/12/2024,Windows 10,Intel Core i7,29,4/8/2021
+540,desktop,Ozu,HP EliteBook,DEF456,2/18/2014,4/25/2025,Ubuntu 20.04,Intel Core i7,32,1/25/2024
+541,laptop,Zoomdog,HP EliteBook,GHI789,11/30/2021,4/22/2024,Ubuntu 20.04,Qualcomm Snapdragon,32,10/16/2021
+542,laptop,Edgetag,Lenovo ThinkCentre,GHI789,5/1/2010,10/1/2024,Ubuntu 20.04,Qualcomm Snapdragon,20,1/29/2022
+543,server,Plajo,Lenovo ThinkCentre,GHI789,2/9/2010,7/22/2023,Ubuntu 20.04,AMD Ryzen 5,31,6/10/2020
+544,scanner,Aimbo,Lenovo ThinkCentre,DEF456,11/20/2016,11/15/2023,Ubuntu 20.04,AMD Ryzen 5,31,10/17/2022
+545,desktop,Kwideo,Lenovo ThinkCentre,GHI789,9/7/2017,10/4/2023,macOS Big Sur,Intel Core i7,23,6/2/2022
+546,server,Yotz,HP EliteBook,DEF456,7/30/2010,5/31/2023,Ubuntu 20.04,Qualcomm Snapdragon,21,6/24/2023
+547,scanner,Skimia,HP EliteBook,GHI789,8/13/2016,12/11/2023,Ubuntu 20.04,Intel Core i7,25,2/14/2021
+548,server,Skilith,Dell OptiPlex,DEF456,2/15/2016,5/18/2023,macOS Big Sur,AMD Ryzen 5,4,5/6/2020
+549,scanner,Mymm,HP EliteBook,GHI789,2/12/2010,4/19/2025,Ubuntu 20.04,AMD Ryzen 5,6,1/28/2023
+550,printer,Edgetag,HP EliteBook,ABC123,11/18/2017,3/14/2025,macOS Big Sur,Qualcomm Snapdragon,12,5/20/2022
+551,server,Ooba,Dell OptiPlex,GHI789,1/28/2013,9/3/2025,macOS Big Sur,Qualcomm Snapdragon,11,11/12/2020
+552,desktop,Aivee,Dell OptiPlex,ABC123,11/18/2019,10/7/2022,macOS Big Sur,Qualcomm Snapdragon,29,1/25/2022
+553,laptop,Skippad,Dell OptiPlex,ABC123,4/17/2019,2/15/2023,macOS Big Sur,Qualcomm Snapdragon,4,12/24/2023
+554,server,Wikivu,Lenovo ThinkCentre,DEF456,11/12/2014,1/24/2023,macOS Big Sur,Intel Core i7,13,1/27/2021
+555,laptop,Jabberbean,Dell OptiPlex,ABC123,2/19/2014,5/26/2024,Windows 10,Intel Core i7,28,9/14/2020
+556,printer,Topicware,Lenovo ThinkCentre,DEF456,12/8/2011,8/13/2023,macOS Big Sur,Qualcomm Snapdragon,4,5/8/2022
+557,server,Skiptube,HP EliteBook,ABC123,3/6/2019,9/7/2022,Windows 10,Qualcomm Snapdragon,20,3/13/2021
+558,server,Yacero,HP EliteBook,GHI789,11/18/2020,9/12/2025,macOS Big Sur,Intel Core i7,27,2/14/2022
+559,scanner,Kayveo,HP EliteBook,DEF456,11/5/2010,5/15/2024,macOS Big Sur,AMD Ryzen 5,21,4/1/2023
+560,laptop,Edgewire,HP EliteBook,GHI789,8/3/2017,1/29/2024,Windows 10,Qualcomm Snapdragon,21,2/25/2020
+561,laptop,Quaxo,HP EliteBook,ABC123,5/21/2019,1/9/2023,Ubuntu 20.04,Intel Core i7,21,11/18/2021
+562,laptop,Jayo,HP EliteBook,GHI789,1/27/2018,6/2/2022,Ubuntu 20.04,Qualcomm Snapdragon,18,4/6/2021
+563,laptop,Zooveo,Dell OptiPlex,ABC123,12/23/2013,4/16/2024,Ubuntu 20.04,Intel Core i7,12,4/4/2022
+564,scanner,Innojam,Lenovo ThinkCentre,ABC123,10/28/2021,10/20/2024,Windows 10,AMD Ryzen 5,25,3/24/2021
+565,desktop,Gigabox,Lenovo ThinkCentre,DEF456,3/6/2013,4/14/2025,Windows 10,AMD Ryzen 5,23,10/27/2020
+566,scanner,Divape,Dell OptiPlex,ABC123,9/27/2020,7/20/2023,Ubuntu 20.04,AMD Ryzen 5,13,2/5/2023
+567,scanner,Zoombox,Lenovo ThinkCentre,ABC123,11/17/2020,7/31/2022,Ubuntu 20.04,Qualcomm Snapdragon,20,12/2/2020
+568,server,Myworks,HP EliteBook,DEF456,10/18/2013,3/16/2025,Ubuntu 20.04,AMD Ryzen 5,14,7/22/2023
+569,laptop,Rhyzio,Lenovo ThinkCentre,DEF456,3/17/2017,2/2/2023,Windows 10,Intel Core i7,28,12/28/2023
+570,printer,Blogpad,HP EliteBook,DEF456,4/2/2019,6/21/2024,Ubuntu 20.04,AMD Ryzen 5,26,2/10/2020
+571,printer,Browsedrive,HP EliteBook,GHI789,6/7/2015,7/26/2024,Ubuntu 20.04,Intel Core i7,20,4/2/2022
+572,server,Skyble,Lenovo ThinkCentre,ABC123,11/7/2010,9/3/2023,macOS Big Sur,AMD Ryzen 5,5,4/20/2021
+573,desktop,Photobug,Dell OptiPlex,GHI789,11/7/2013,2/2/2023,macOS Big Sur,AMD Ryzen 5,15,5/15/2020
+574,desktop,Linkbuzz,Lenovo ThinkCentre,GHI789,10/15/2016,6/8/2024,Windows 10,Qualcomm Snapdragon,20,6/12/2023
+575,scanner,Demizz,HP EliteBook,ABC123,4/13/2018,7/10/2025,macOS Big Sur,Intel Core i7,26,12/6/2023
+576,desktop,Topiclounge,Dell OptiPlex,GHI789,10/12/2013,12/7/2022,Windows 10,Qualcomm Snapdragon,26,12/12/2021
+577,desktop,Eire,HP EliteBook,DEF456,1/5/2021,4/11/2022,Windows 10,Qualcomm Snapdragon,21,12/11/2023
+578,scanner,Trilia,HP EliteBook,DEF456,1/11/2018,1/10/2024,macOS Big Sur,Qualcomm Snapdragon,14,11/29/2020
+579,laptop,Janyx,Dell OptiPlex,DEF456,4/18/2020,5/9/2022,Ubuntu 20.04,AMD Ryzen 5,9,12/16/2020
+580,laptop,Bluezoom,Lenovo ThinkCentre,DEF456,9/30/2011,5/31/2025,Ubuntu 20.04,Qualcomm Snapdragon,21,9/6/2023
+581,scanner,Twimm,Lenovo ThinkCentre,ABC123,7/7/2011,5/15/2023,Windows 10,Qualcomm Snapdragon,12,3/11/2023
+582,laptop,Jaxnation,Dell OptiPlex,GHI789,6/13/2013,5/2/2024,macOS Big Sur,AMD Ryzen 5,8,9/26/2020
+583,scanner,Dabshots,HP EliteBook,GHI789,12/1/2011,5/5/2022,Ubuntu 20.04,Intel Core i7,16,12/27/2021
+584,printer,Jayo,HP EliteBook,DEF456,4/11/2015,9/18/2023,Ubuntu 20.04,Intel Core i7,22,12/8/2023
+585,laptop,Feedfish,HP EliteBook,DEF456,8/12/2012,1/14/2023,Windows 10,Qualcomm Snapdragon,15,9/29/2022
+586,laptop,Fadeo,HP EliteBook,ABC123,1/9/2020,12/27/2024,Ubuntu 20.04,AMD Ryzen 5,8,5/12/2020
+587,printer,Kwimbee,HP EliteBook,ABC123,2/7/2017,1/21/2023,Windows 10,AMD Ryzen 5,28,9/7/2020
+588,printer,Twitterworks,Lenovo ThinkCentre,GHI789,10/18/2016,12/19/2022,macOS Big Sur,Intel Core i7,31,11/24/2023
+589,printer,Avavee,Dell OptiPlex,GHI789,10/16/2018,1/24/2024,Windows 10,Qualcomm Snapdragon,9,9/2/2020
+590,server,Twitternation,Lenovo ThinkCentre,DEF456,2/13/2013,8/14/2022,Windows 10,Qualcomm Snapdragon,6,1/11/2024
+591,laptop,Jetpulse,Dell OptiPlex,GHI789,10/18/2013,10/10/2024,Ubuntu 20.04,AMD Ryzen 5,29,2/14/2020
+592,server,Bubbletube,Dell OptiPlex,ABC123,7/5/2010,5/21/2024,macOS Big Sur,Intel Core i7,8,12/16/2020
+593,laptop,Zoombeat,HP EliteBook,ABC123,3/3/2017,8/30/2023,Windows 10,Qualcomm Snapdragon,9,4/30/2023
+594,server,Realbuzz,Lenovo ThinkCentre,ABC123,11/23/2021,1/5/2023,Ubuntu 20.04,AMD Ryzen 5,12,10/26/2021
+595,laptop,Oyoba,Dell OptiPlex,DEF456,10/1/2019,11/1/2023,Windows 10,Qualcomm Snapdragon,5,10/16/2023
+596,printer,Dynava,Lenovo ThinkCentre,GHI789,10/3/2019,7/17/2022,macOS Big Sur,Qualcomm Snapdragon,21,12/8/2020
+597,scanner,Youspan,Dell OptiPlex,ABC123,1/10/2018,8/14/2023,Ubuntu 20.04,Intel Core i7,22,2/21/2022
+598,server,Twimm,HP EliteBook,GHI789,12/7/2014,10/8/2024,Windows 10,Qualcomm Snapdragon,9,7/21/2021
+599,laptop,Jamia,HP EliteBook,ABC123,9/29/2012,7/10/2022,macOS Big Sur,AMD Ryzen 5,15,10/12/2021
+600,server,Twitterlist,HP EliteBook,DEF456,9/23/2015,9/12/2023,Ubuntu 20.04,Qualcomm Snapdragon,24,7/7/2023
+601,desktop,Avamm,Lenovo ThinkCentre,ABC123,8/19/2012,6/23/2025,Ubuntu 20.04,Qualcomm Snapdragon,7,5/24/2023
+602,laptop,Agivu,HP EliteBook,GHI789,2/4/2014,1/29/2024,Ubuntu 20.04,AMD Ryzen 5,27,11/10/2020
+603,server,Yabox,Lenovo ThinkCentre,ABC123,4/25/2020,7/4/2024,Ubuntu 20.04,Intel Core i7,30,12/16/2021
+604,laptop,Kazu,Lenovo ThinkCentre,ABC123,6/17/2018,8/16/2022,macOS Big Sur,Qualcomm Snapdragon,26,5/14/2023
+605,server,Pixonyx,HP EliteBook,ABC123,3/6/2017,8/28/2024,Ubuntu 20.04,Intel Core i7,22,5/3/2020
+606,scanner,Kazu,HP EliteBook,GHI789,7/12/2011,2/20/2024,Windows 10,AMD Ryzen 5,10,1/30/2023
+607,laptop,Midel,Lenovo ThinkCentre,ABC123,9/4/2012,6/8/2025,Ubuntu 20.04,AMD Ryzen 5,11,7/1/2023
+608,desktop,Blognation,Dell OptiPlex,GHI789,5/4/2021,12/13/2024,Windows 10,AMD Ryzen 5,6,8/8/2023
+609,desktop,Yambee,Lenovo ThinkCentre,GHI789,12/17/2019,7/20/2024,macOS Big Sur,AMD Ryzen 5,19,11/24/2023
+610,printer,Izio,Dell OptiPlex,GHI789,8/25/2019,5/2/2022,Ubuntu 20.04,Intel Core i7,30,12/13/2022
+611,scanner,Layo,Lenovo ThinkCentre,DEF456,7/20/2011,5/28/2025,Ubuntu 20.04,Qualcomm Snapdragon,32,10/10/2020
+612,desktop,Roodel,HP EliteBook,DEF456,8/2/2017,12/15/2025,macOS Big Sur,AMD Ryzen 5,16,7/29/2023
+613,scanner,Gabcube,Dell OptiPlex,GHI789,11/8/2017,2/8/2024,Windows 10,AMD Ryzen 5,13,11/9/2020
+614,printer,Thoughtbridge,Dell OptiPlex,ABC123,5/26/2012,5/23/2024,Windows 10,AMD Ryzen 5,28,2/20/2020
+615,laptop,Devshare,HP EliteBook,DEF456,6/2/2017,3/31/2024,Windows 10,Intel Core i7,14,9/14/2022
+616,scanner,Demizz,Lenovo ThinkCentre,ABC123,5/15/2021,12/8/2023,Ubuntu 20.04,Qualcomm Snapdragon,24,1/10/2024
+617,laptop,Skipstorm,Lenovo ThinkCentre,DEF456,5/20/2013,6/8/2025,Ubuntu 20.04,Qualcomm Snapdragon,21,10/9/2022
+618,printer,Youfeed,HP EliteBook,GHI789,8/26/2017,7/13/2025,Ubuntu 20.04,Qualcomm Snapdragon,19,7/24/2021
+619,laptop,Eabox,HP EliteBook,ABC123,8/19/2017,1/13/2023,Ubuntu 20.04,Qualcomm Snapdragon,28,3/20/2022
+620,server,Tagpad,Dell OptiPlex,DEF456,9/14/2013,6/19/2025,Windows 10,Intel Core i7,23,4/8/2021
+621,scanner,Dabjam,Lenovo ThinkCentre,GHI789,6/25/2014,8/27/2025,Ubuntu 20.04,AMD Ryzen 5,28,11/16/2021
+622,laptop,Wordpedia,Dell OptiPlex,GHI789,7/3/2012,5/21/2024,Windows 10,AMD Ryzen 5,4,12/31/2020
+623,printer,Jaloo,Dell OptiPlex,DEF456,10/17/2018,12/3/2025,Windows 10,AMD Ryzen 5,8,4/4/2021
+624,scanner,Voonix,HP EliteBook,ABC123,2/4/2015,9/8/2025,Ubuntu 20.04,Qualcomm Snapdragon,10,1/15/2023
+625,printer,Feedfish,Lenovo ThinkCentre,ABC123,10/5/2012,4/19/2023,Windows 10,AMD Ryzen 5,12,6/7/2021
+626,laptop,Innotype,HP EliteBook,DEF456,6/16/2017,3/20/2023,Windows 10,Intel Core i7,22,12/16/2020
+627,laptop,Yadel,Dell OptiPlex,ABC123,9/28/2016,11/13/2022,Windows 10,Qualcomm Snapdragon,24,7/17/2022
+628,printer,Thoughtsphere,Lenovo ThinkCentre,GHI789,4/7/2010,5/15/2024,macOS Big Sur,AMD Ryzen 5,20,10/25/2022
+629,printer,Agivu,Lenovo ThinkCentre,GHI789,8/4/2020,12/21/2023,Ubuntu 20.04,Qualcomm Snapdragon,5,1/2/2024
+630,desktop,Babblestorm,Dell OptiPlex,ABC123,5/13/2014,6/13/2022,Windows 10,AMD Ryzen 5,11,12/22/2022
+631,server,Yata,HP EliteBook,DEF456,4/12/2015,10/19/2022,Windows 10,AMD Ryzen 5,4,3/5/2020
+632,printer,Avamba,Dell OptiPlex,ABC123,10/14/2011,11/11/2022,Ubuntu 20.04,Intel Core i7,19,1/28/2021
+633,printer,Meejo,Dell OptiPlex,ABC123,11/16/2012,12/24/2025,Ubuntu 20.04,AMD Ryzen 5,28,4/17/2021
+634,laptop,Kwinu,HP EliteBook,DEF456,7/8/2010,3/8/2024,Ubuntu 20.04,Qualcomm Snapdragon,30,11/23/2020
+635,laptop,Youbridge,HP EliteBook,DEF456,6/11/2015,2/17/2022,Windows 10,Qualcomm Snapdragon,4,8/8/2021
+636,scanner,Skimia,Dell OptiPlex,DEF456,8/30/2015,12/21/2024,macOS Big Sur,Qualcomm Snapdragon,13,7/14/2021
+637,server,Zooxo,HP EliteBook,ABC123,2/26/2017,7/3/2022,Windows 10,Qualcomm Snapdragon,20,9/17/2023
+638,printer,Topiclounge,Dell OptiPlex,GHI789,1/15/2015,9/2/2023,Ubuntu 20.04,Intel Core i7,18,2/12/2023
+639,scanner,Photobug,Dell OptiPlex,ABC123,12/7/2010,3/14/2023,Ubuntu 20.04,AMD Ryzen 5,8,12/14/2023
+640,desktop,Skilith,Dell OptiPlex,DEF456,9/9/2010,11/23/2023,Ubuntu 20.04,Intel Core i7,11,11/3/2021
+641,server,Photobean,Lenovo ThinkCentre,ABC123,8/30/2012,10/31/2024,Windows 10,Qualcomm Snapdragon,5,8/21/2022
+642,desktop,Innojam,Dell OptiPlex,GHI789,6/28/2019,6/18/2023,macOS Big Sur,Intel Core i7,19,7/31/2022
+643,server,Voomm,Dell OptiPlex,GHI789,7/7/2011,8/3/2024,Ubuntu 20.04,AMD Ryzen 5,4,11/10/2022
+644,desktop,Thoughtsphere,Lenovo ThinkCentre,DEF456,5/14/2018,6/21/2025,Ubuntu 20.04,Qualcomm Snapdragon,22,12/16/2020
+645,server,Divanoodle,HP EliteBook,DEF456,12/20/2012,9/24/2023,Windows 10,Intel Core i7,5,7/4/2020
+646,desktop,Innojam,Dell OptiPlex,GHI789,2/21/2011,9/4/2023,Ubuntu 20.04,AMD Ryzen 5,21,4/12/2022
+647,laptop,Flashset,HP EliteBook,GHI789,5/27/2021,9/15/2022,macOS Big Sur,AMD Ryzen 5,18,2/10/2020
+648,scanner,Skibox,Lenovo ThinkCentre,ABC123,8/14/2015,4/24/2025,macOS Big Sur,Intel Core i7,24,1/15/2022
+649,scanner,Eimbee,Dell OptiPlex,GHI789,10/21/2018,1/20/2025,Ubuntu 20.04,Intel Core i7,8,7/10/2021
+650,server,Quatz,Lenovo ThinkCentre,ABC123,4/2/2012,7/18/2025,Windows 10,AMD Ryzen 5,27,3/3/2023
+651,server,Youbridge,Lenovo ThinkCentre,DEF456,2/26/2010,4/28/2025,macOS Big Sur,AMD Ryzen 5,27,12/7/2021
+652,printer,Jaxworks,Lenovo ThinkCentre,GHI789,5/9/2010,4/4/2025,macOS Big Sur,AMD Ryzen 5,14,11/18/2023
+653,desktop,Wordpedia,HP EliteBook,GHI789,7/29/2018,10/23/2023,Ubuntu 20.04,Qualcomm Snapdragon,7,4/11/2020
+654,server,Mycat,HP EliteBook,ABC123,8/7/2018,1/22/2022,Ubuntu 20.04,Intel Core i7,9,6/9/2023
+655,laptop,Meetz,Dell OptiPlex,DEF456,5/20/2018,3/7/2025,macOS Big Sur,Intel Core i7,27,12/30/2020
+656,scanner,Wikibox,Dell OptiPlex,GHI789,7/23/2019,10/1/2022,Ubuntu 20.04,AMD Ryzen 5,9,3/31/2023
+657,server,Quinu,HP EliteBook,GHI789,2/20/2012,5/30/2024,macOS Big Sur,Intel Core i7,18,11/16/2020
+658,printer,Katz,HP EliteBook,ABC123,2/6/2012,10/31/2025,Ubuntu 20.04,Intel Core i7,8,11/17/2021
+659,scanner,Minyx,Lenovo ThinkCentre,DEF456,3/28/2015,2/26/2025,Windows 10,AMD Ryzen 5,24,1/19/2021
+660,server,Quamba,Lenovo ThinkCentre,DEF456,3/12/2020,7/28/2022,macOS Big Sur,Qualcomm Snapdragon,6,4/12/2023
+661,desktop,Eamia,Dell OptiPlex,DEF456,2/7/2012,2/25/2022,Windows 10,Qualcomm Snapdragon,32,10/4/2020
+662,server,Skiba,Lenovo ThinkCentre,ABC123,8/2/2018,7/24/2023,Ubuntu 20.04,AMD Ryzen 5,27,9/13/2021
+663,printer,Jetpulse,Lenovo ThinkCentre,DEF456,12/13/2011,12/28/2023,Windows 10,Intel Core i7,6,1/7/2021
+664,server,Dazzlesphere,Lenovo ThinkCentre,GHI789,12/23/2017,9/5/2024,Ubuntu 20.04,AMD Ryzen 5,4,4/10/2023
+665,laptop,Meembee,Dell OptiPlex,ABC123,9/5/2017,7/29/2023,Windows 10,Intel Core i7,23,6/5/2023
+666,desktop,Jayo,Lenovo ThinkCentre,DEF456,1/23/2015,11/12/2023,Windows 10,AMD Ryzen 5,5,10/20/2022
+667,printer,Meetz,Dell OptiPlex,DEF456,2/20/2018,1/15/2023,macOS Big Sur,Qualcomm Snapdragon,24,6/16/2022
+668,laptop,Wikido,HP EliteBook,GHI789,8/25/2012,2/16/2023,macOS Big Sur,AMD Ryzen 5,7,8/2/2021
+669,scanner,Oba,Lenovo ThinkCentre,DEF456,5/29/2010,9/9/2024,Ubuntu 20.04,Qualcomm Snapdragon,15,6/6/2023
+670,printer,Quire,Lenovo ThinkCentre,DEF456,1/27/2018,6/21/2023,Ubuntu 20.04,AMD Ryzen 5,4,11/30/2021
+671,desktop,Oyope,Dell OptiPlex,ABC123,5/5/2018,9/19/2025,Windows 10,Qualcomm Snapdragon,12,6/12/2021
+672,laptop,Thoughtstorm,Dell OptiPlex,ABC123,9/6/2015,7/30/2025,Ubuntu 20.04,Intel Core i7,18,8/4/2022
+673,scanner,Rhyzio,Lenovo ThinkCentre,ABC123,5/19/2019,4/25/2024,macOS Big Sur,Intel Core i7,20,11/10/2022
+674,laptop,Voonder,HP EliteBook,ABC123,7/13/2013,12/8/2024,macOS Big Sur,Qualcomm Snapdragon,12,12/5/2022
+675,laptop,Feedspan,HP EliteBook,DEF456,4/21/2019,9/8/2022,macOS Big Sur,Qualcomm Snapdragon,29,4/1/2021
+676,desktop,Skidoo,HP EliteBook,ABC123,9/17/2014,10/5/2024,Windows 10,Intel Core i7,8,12/23/2022
+677,laptop,Tekfly,HP EliteBook,ABC123,9/2/2020,6/14/2022,Ubuntu 20.04,AMD Ryzen 5,18,6/11/2021
+678,printer,Photospace,HP EliteBook,GHI789,6/28/2017,8/17/2025,macOS Big Sur,AMD Ryzen 5,30,11/14/2022
+679,laptop,Latz,Dell OptiPlex,GHI789,8/31/2010,3/8/2025,Windows 10,AMD Ryzen 5,31,8/23/2023
+680,desktop,Tanoodle,Lenovo ThinkCentre,GHI789,8/4/2011,5/29/2025,macOS Big Sur,Intel Core i7,32,9/10/2022
+681,printer,Zoomlounge,Lenovo ThinkCentre,ABC123,3/10/2011,11/5/2022,Windows 10,Qualcomm Snapdragon,21,2/10/2020
+682,printer,Browsetype,HP EliteBook,ABC123,3/18/2010,12/28/2023,Ubuntu 20.04,Qualcomm Snapdragon,28,4/18/2023
+683,printer,Quatz,Lenovo ThinkCentre,ABC123,6/25/2013,5/27/2022,Windows 10,Qualcomm Snapdragon,29,3/16/2022
+684,laptop,Tekfly,HP EliteBook,ABC123,7/15/2010,8/5/2024,Ubuntu 20.04,Intel Core i7,22,4/5/2020
+685,scanner,Tazz,Dell OptiPlex,DEF456,11/6/2016,1/24/2023,Ubuntu 20.04,Qualcomm Snapdragon,21,10/3/2023
+686,scanner,Twimm,Dell OptiPlex,GHI789,4/27/2010,5/30/2023,Ubuntu 20.04,Qualcomm Snapdragon,31,11/8/2020
+687,server,Tavu,Lenovo ThinkCentre,GHI789,12/5/2020,3/12/2024,Ubuntu 20.04,Qualcomm Snapdragon,31,5/28/2023
+688,server,Jamia,Lenovo ThinkCentre,DEF456,12/24/2012,2/1/2022,macOS Big Sur,Intel Core i7,4,6/24/2022
+689,server,Feedfire,HP EliteBook,DEF456,4/8/2012,1/19/2024,macOS Big Sur,Intel Core i7,30,9/23/2020
+690,server,Skyvu,HP EliteBook,ABC123,9/16/2015,5/6/2023,macOS Big Sur,Qualcomm Snapdragon,25,6/6/2023
+691,server,Omba,HP EliteBook,ABC123,9/2/2020,7/14/2022,Ubuntu 20.04,AMD Ryzen 5,16,1/9/2022
+692,desktop,Dabjam,Lenovo ThinkCentre,DEF456,4/5/2013,8/17/2022,Ubuntu 20.04,AMD Ryzen 5,15,3/24/2021
+693,printer,Rhyzio,Dell OptiPlex,GHI789,8/19/2016,11/13/2022,Windows 10,AMD Ryzen 5,17,2/23/2023
+694,laptop,Brainlounge,HP EliteBook,GHI789,11/7/2019,3/28/2024,Windows 10,Intel Core i7,5,4/7/2022
+695,server,Thoughtstorm,HP EliteBook,ABC123,11/3/2013,9/30/2025,Ubuntu 20.04,Intel Core i7,15,9/5/2023
+696,server,Wikibox,Lenovo ThinkCentre,DEF456,3/18/2011,2/1/2022,Windows 10,AMD Ryzen 5,9,6/9/2022
+697,laptop,Wikizz,Dell OptiPlex,DEF456,5/10/2016,6/4/2024,macOS Big Sur,Qualcomm Snapdragon,29,10/25/2021
+698,server,Linkbuzz,HP EliteBook,DEF456,3/20/2018,10/27/2025,Windows 10,Intel Core i7,31,4/24/2022
+699,scanner,Skyvu,Lenovo ThinkCentre,DEF456,3/3/2015,4/18/2023,Windows 10,Qualcomm Snapdragon,24,11/16/2023
+700,printer,Photofeed,HP EliteBook,ABC123,12/28/2021,3/19/2025,macOS Big Sur,Intel Core i7,31,1/9/2021
+701,scanner,Eare,HP EliteBook,ABC123,11/24/2018,1/1/2022,Windows 10,Intel Core i7,28,9/6/2021
+702,scanner,Nlounge,Lenovo ThinkCentre,ABC123,7/4/2017,10/19/2025,Windows 10,Qualcomm Snapdragon,14,12/8/2020
+703,laptop,Tazz,Dell OptiPlex,DEF456,4/28/2014,3/14/2022,Windows 10,Qualcomm Snapdragon,28,10/14/2020
+704,desktop,Dabtype,Lenovo ThinkCentre,ABC123,8/15/2010,8/12/2023,Windows 10,AMD Ryzen 5,31,9/13/2021
+705,desktop,JumpXS,Lenovo ThinkCentre,GHI789,12/17/2020,7/2/2023,Ubuntu 20.04,AMD Ryzen 5,21,5/22/2022
+706,scanner,Zoomlounge,HP EliteBook,GHI789,7/31/2015,10/1/2023,macOS Big Sur,Qualcomm Snapdragon,31,3/15/2021
+707,laptop,Topiclounge,Dell OptiPlex,ABC123,9/20/2011,8/18/2024,macOS Big Sur,Intel Core i7,6,10/14/2023
+708,desktop,Avamba,Dell OptiPlex,GHI789,2/10/2012,9/7/2025,macOS Big Sur,Qualcomm Snapdragon,17,8/12/2023
+709,scanner,Npath,HP EliteBook,ABC123,1/8/2013,6/25/2023,macOS Big Sur,AMD Ryzen 5,11,8/15/2021
+710,desktop,Oozz,Dell OptiPlex,GHI789,9/26/2014,10/23/2025,Ubuntu 20.04,AMD Ryzen 5,17,5/25/2023
+711,scanner,Yotz,Dell OptiPlex,GHI789,7/29/2013,6/8/2024,Ubuntu 20.04,Intel Core i7,7,10/31/2023
+712,server,Topiczoom,Dell OptiPlex,ABC123,9/30/2021,6/28/2023,Ubuntu 20.04,AMD Ryzen 5,13,3/8/2023
+713,laptop,Talane,HP EliteBook,GHI789,3/16/2015,11/14/2022,macOS Big Sur,Qualcomm Snapdragon,12,9/26/2020
+714,printer,Layo,Dell OptiPlex,ABC123,9/22/2010,4/8/2022,Ubuntu 20.04,AMD Ryzen 5,10,7/21/2020
+715,laptop,Ainyx,Dell OptiPlex,DEF456,1/14/2021,4/11/2022,macOS Big Sur,Qualcomm Snapdragon,32,12/3/2023
+716,laptop,Trudoo,Lenovo ThinkCentre,ABC123,7/4/2021,5/19/2024,Ubuntu 20.04,Qualcomm Snapdragon,22,5/24/2020
+717,printer,Brainbox,Lenovo ThinkCentre,ABC123,8/4/2010,7/12/2024,macOS Big Sur,Intel Core i7,18,9/27/2022
+718,server,Abata,Lenovo ThinkCentre,DEF456,10/1/2017,12/11/2023,macOS Big Sur,Intel Core i7,22,5/12/2023
+719,scanner,Jayo,HP EliteBook,GHI789,9/19/2014,7/23/2024,macOS Big Sur,Intel Core i7,30,2/20/2021
+720,scanner,Oyonder,HP EliteBook,GHI789,1/19/2011,9/18/2023,Ubuntu 20.04,Qualcomm Snapdragon,25,9/29/2021
+721,desktop,Meezzy,HP EliteBook,ABC123,5/8/2014,2/4/2024,Windows 10,AMD Ryzen 5,13,12/7/2023
+722,printer,Oodoo,Lenovo ThinkCentre,GHI789,1/6/2019,10/29/2022,Ubuntu 20.04,Qualcomm Snapdragon,5,9/10/2022
+723,printer,Wordpedia,Lenovo ThinkCentre,GHI789,7/9/2021,2/4/2025,Ubuntu 20.04,Qualcomm Snapdragon,31,6/13/2023
+724,laptop,Voolith,HP EliteBook,DEF456,10/24/2017,10/19/2022,Ubuntu 20.04,Qualcomm Snapdragon,27,9/28/2023
+725,laptop,Trupe,HP EliteBook,DEF456,11/1/2021,12/11/2024,Ubuntu 20.04,Qualcomm Snapdragon,13,3/20/2021
+726,printer,Photolist,HP EliteBook,GHI789,3/14/2014,5/2/2024,Ubuntu 20.04,Intel Core i7,12,5/9/2022
+727,server,Meejo,Dell OptiPlex,DEF456,10/18/2018,6/19/2025,macOS Big Sur,Intel Core i7,22,2/2/2023
+728,server,Yakijo,Dell OptiPlex,DEF456,11/18/2012,10/24/2024,macOS Big Sur,Qualcomm Snapdragon,25,6/28/2020
+729,desktop,Ntags,Dell OptiPlex,GHI789,10/1/2012,2/18/2024,macOS Big Sur,AMD Ryzen 5,27,2/23/2020
+730,laptop,Twitterbeat,Lenovo ThinkCentre,DEF456,1/10/2014,1/11/2024,Ubuntu 20.04,Qualcomm Snapdragon,17,8/18/2023
+731,desktop,Riffpath,Dell OptiPlex,ABC123,6/12/2014,1/11/2025,Windows 10,Intel Core i7,13,4/29/2023
+732,printer,Mita,Dell OptiPlex,ABC123,3/15/2015,5/13/2023,Ubuntu 20.04,Intel Core i7,19,11/28/2020
+733,printer,Edgeify,Dell OptiPlex,ABC123,5/30/2021,5/11/2025,Ubuntu 20.04,Qualcomm Snapdragon,12,4/29/2020
+734,laptop,Realbuzz,HP EliteBook,GHI789,6/29/2011,3/5/2024,macOS Big Sur,Qualcomm Snapdragon,32,6/17/2023
+735,scanner,Skipstorm,Dell OptiPlex,DEF456,3/2/2016,4/26/2023,macOS Big Sur,AMD Ryzen 5,13,7/2/2020
+736,desktop,Wikivu,HP EliteBook,DEF456,8/19/2017,1/10/2023,Ubuntu 20.04,AMD Ryzen 5,26,6/16/2021
+737,server,Izio,HP EliteBook,DEF456,5/20/2018,8/19/2023,Windows 10,Qualcomm Snapdragon,17,12/24/2020
+738,scanner,Twitterlist,Lenovo ThinkCentre,DEF456,12/15/2016,10/24/2024,macOS Big Sur,Qualcomm Snapdragon,23,1/10/2024
+739,desktop,Meevee,Lenovo ThinkCentre,DEF456,9/7/2018,11/1/2024,Windows 10,Intel Core i7,30,12/16/2022
+740,laptop,Izio,HP EliteBook,DEF456,2/11/2013,6/13/2024,Ubuntu 20.04,AMD Ryzen 5,30,7/9/2020
+741,printer,Talane,Lenovo ThinkCentre,ABC123,1/4/2021,6/2/2024,Windows 10,Qualcomm Snapdragon,8,7/19/2023
+742,printer,Skivee,Dell OptiPlex,GHI789,2/28/2014,4/4/2022,Ubuntu 20.04,Intel Core i7,19,2/10/2022
+743,printer,Avavee,Dell OptiPlex,ABC123,10/17/2021,11/22/2025,macOS Big Sur,Qualcomm Snapdragon,12,4/19/2022
+744,server,Twitterworks,HP EliteBook,GHI789,11/23/2015,7/5/2024,Ubuntu 20.04,AMD Ryzen 5,4,3/20/2020
+745,desktop,Skipfire,HP EliteBook,GHI789,1/6/2019,2/12/2024,Ubuntu 20.04,AMD Ryzen 5,19,9/23/2020
+746,desktop,Shufflebeat,Lenovo ThinkCentre,DEF456,8/14/2017,7/4/2022,macOS Big Sur,Intel Core i7,5,4/4/2023
+747,laptop,Devshare,Dell OptiPlex,ABC123,8/15/2013,1/20/2024,Ubuntu 20.04,AMD Ryzen 5,25,6/24/2022
+748,laptop,Jabbersphere,Dell OptiPlex,ABC123,1/27/2013,8/4/2024,Windows 10,Qualcomm Snapdragon,26,12/13/2023
+749,desktop,Browsetype,HP EliteBook,ABC123,4/15/2015,11/17/2025,Ubuntu 20.04,AMD Ryzen 5,19,10/8/2021
+750,server,Divavu,Dell OptiPlex,DEF456,8/19/2012,7/13/2024,Windows 10,Qualcomm Snapdragon,14,11/27/2021
+751,server,Zava,Lenovo ThinkCentre,DEF456,11/29/2020,3/2/2025,Ubuntu 20.04,AMD Ryzen 5,15,6/29/2020
+752,desktop,Yambee,HP EliteBook,GHI789,12/20/2013,10/12/2024,Windows 10,Intel Core i7,28,2/8/2021
+753,printer,Wikizz,Lenovo ThinkCentre,GHI789,7/27/2013,12/10/2024,Ubuntu 20.04,AMD Ryzen 5,21,4/19/2021
+754,desktop,Photospace,Lenovo ThinkCentre,DEF456,6/23/2018,7/2/2025,Ubuntu 20.04,Intel Core i7,27,12/24/2022
+755,desktop,Camido,HP EliteBook,DEF456,1/16/2017,12/10/2024,Windows 10,AMD Ryzen 5,9,9/16/2020
+756,server,Teklist,HP EliteBook,DEF456,11/13/2011,1/18/2023,Ubuntu 20.04,Intel Core i7,32,12/16/2021
+757,desktop,Zoovu,Lenovo ThinkCentre,ABC123,8/2/2021,8/7/2024,macOS Big Sur,AMD Ryzen 5,16,2/15/2020
+758,server,Roombo,Lenovo ThinkCentre,GHI789,10/22/2010,8/1/2023,Ubuntu 20.04,AMD Ryzen 5,15,9/5/2021
+759,laptop,Kwimbee,HP EliteBook,GHI789,7/30/2013,1/31/2023,macOS Big Sur,Qualcomm Snapdragon,14,2/15/2021
+760,scanner,Voonyx,Dell OptiPlex,ABC123,1/1/2015,2/8/2022,Windows 10,AMD Ryzen 5,23,9/24/2021
+761,laptop,Yozio,HP EliteBook,DEF456,2/6/2011,9/27/2024,macOS Big Sur,Intel Core i7,17,8/1/2020
+762,desktop,Skilith,Lenovo ThinkCentre,DEF456,7/23/2020,11/12/2024,Windows 10,AMD Ryzen 5,30,7/23/2022
+763,printer,Devshare,Lenovo ThinkCentre,GHI789,1/6/2010,4/17/2024,Windows 10,AMD Ryzen 5,7,5/21/2023
+764,server,Thoughtsphere,Dell OptiPlex,GHI789,6/25/2018,5/18/2024,Windows 10,Qualcomm Snapdragon,21,7/20/2021
+765,desktop,Photofeed,HP EliteBook,DEF456,12/4/2014,5/9/2023,Windows 10,AMD Ryzen 5,14,12/15/2020
+766,laptop,Dynava,Dell OptiPlex,ABC123,4/28/2013,5/22/2024,macOS Big Sur,AMD Ryzen 5,4,4/29/2020
+767,server,Babbleblab,Lenovo ThinkCentre,ABC123,3/14/2016,9/30/2024,macOS Big Sur,AMD Ryzen 5,24,2/1/2023
+768,scanner,Skimia,Dell OptiPlex,ABC123,10/19/2015,9/15/2023,macOS Big Sur,AMD Ryzen 5,28,12/9/2021
+769,laptop,Kimia,HP EliteBook,DEF456,3/1/2020,10/6/2025,Windows 10,Intel Core i7,28,10/27/2023
+770,desktop,Yabox,Dell OptiPlex,GHI789,8/20/2021,4/17/2023,Windows 10,AMD Ryzen 5,24,4/28/2020
+771,server,Thoughtbeat,HP EliteBook,DEF456,8/6/2016,8/15/2023,Windows 10,Intel Core i7,28,7/14/2021
+772,printer,Yombu,Lenovo ThinkCentre,DEF456,8/18/2018,7/31/2025,Ubuntu 20.04,Qualcomm Snapdragon,23,12/28/2021
+773,laptop,Zoombox,Lenovo ThinkCentre,DEF456,12/6/2011,6/17/2023,macOS Big Sur,Qualcomm Snapdragon,29,3/18/2021
+774,scanner,Tagcat,HP EliteBook,GHI789,2/5/2021,7/16/2022,Ubuntu 20.04,AMD Ryzen 5,6,12/11/2021
+775,server,Yamia,Lenovo ThinkCentre,ABC123,4/3/2012,7/8/2025,Windows 10,Qualcomm Snapdragon,10,12/28/2021
+776,printer,Jabbersphere,HP EliteBook,DEF456,12/17/2010,3/9/2022,Ubuntu 20.04,Intel Core i7,14,2/7/2023
+777,server,Twimbo,Lenovo ThinkCentre,ABC123,6/26/2020,7/29/2022,macOS Big Sur,Intel Core i7,22,4/22/2021
+778,laptop,Voonix,Lenovo ThinkCentre,ABC123,2/1/2012,12/26/2022,Ubuntu 20.04,AMD Ryzen 5,27,10/31/2020
+779,server,Oloo,HP EliteBook,DEF456,8/5/2010,4/25/2024,macOS Big Sur,AMD Ryzen 5,21,1/5/2023
+780,server,Livetube,Dell OptiPlex,ABC123,10/5/2018,2/23/2023,Windows 10,AMD Ryzen 5,22,12/5/2021
+781,laptop,Realcube,HP EliteBook,DEF456,10/29/2020,4/14/2024,Ubuntu 20.04,AMD Ryzen 5,7,10/15/2022
+782,laptop,Skyble,HP EliteBook,DEF456,6/12/2018,5/28/2023,Ubuntu 20.04,Intel Core i7,9,8/6/2022
+783,scanner,Ntags,Lenovo ThinkCentre,ABC123,6/15/2010,8/12/2025,macOS Big Sur,AMD Ryzen 5,12,2/22/2023
+784,desktop,Twinte,Dell OptiPlex,GHI789,9/13/2012,7/17/2022,Windows 10,Qualcomm Snapdragon,9,1/12/2022
+785,scanner,Voolia,Lenovo ThinkCentre,DEF456,2/28/2015,1/11/2023,Windows 10,AMD Ryzen 5,32,8/15/2022
+786,server,Edgepulse,Dell OptiPlex,ABC123,4/9/2012,11/30/2023,Windows 10,Qualcomm Snapdragon,19,3/10/2023
+787,scanner,Topicware,Dell OptiPlex,GHI789,7/12/2014,1/10/2022,Ubuntu 20.04,Intel Core i7,24,8/12/2023
+788,server,Topicware,Dell OptiPlex,GHI789,7/10/2018,6/21/2024,macOS Big Sur,Qualcomm Snapdragon,19,11/9/2022
+789,server,Zoonder,HP EliteBook,GHI789,1/4/2016,6/22/2025,macOS Big Sur,Qualcomm Snapdragon,16,7/5/2020
+790,scanner,Feednation,HP EliteBook,DEF456,2/5/2017,7/9/2025,Windows 10,Qualcomm Snapdragon,7,6/2/2023
+791,server,Dabshots,HP EliteBook,ABC123,1/21/2021,9/20/2025,Ubuntu 20.04,Qualcomm Snapdragon,6,11/4/2023
+792,scanner,Kamba,Dell OptiPlex,DEF456,6/10/2019,11/25/2025,macOS Big Sur,Intel Core i7,13,11/9/2023
+793,laptop,Zoombeat,Dell OptiPlex,GHI789,8/25/2016,2/4/2025,macOS Big Sur,AMD Ryzen 5,26,9/21/2020
+794,printer,Zoomlounge,HP EliteBook,GHI789,10/31/2013,6/19/2022,Ubuntu 20.04,Qualcomm Snapdragon,26,8/24/2022
+795,server,Meezzy,Dell OptiPlex,GHI789,9/16/2016,10/12/2022,Windows 10,Intel Core i7,28,5/12/2023
+796,server,Trunyx,Dell OptiPlex,DEF456,2/9/2020,11/1/2022,Ubuntu 20.04,AMD Ryzen 5,21,5/26/2020
+797,printer,Trilia,Dell OptiPlex,ABC123,7/31/2012,2/1/2025,macOS Big Sur,Qualcomm Snapdragon,14,10/27/2022
+798,server,Livetube,Dell OptiPlex,DEF456,5/16/2018,6/17/2024,Ubuntu 20.04,Intel Core i7,9,5/25/2023
+799,laptop,Skinder,HP EliteBook,DEF456,1/18/2017,9/8/2024,Windows 10,Intel Core i7,8,11/20/2020
+800,server,Zoomzone,Lenovo ThinkCentre,GHI789,11/18/2020,2/14/2022,Windows 10,AMD Ryzen 5,15,9/8/2020
+801,desktop,Edgeclub,Dell OptiPlex,DEF456,10/15/2014,11/3/2023,Windows 10,Qualcomm Snapdragon,10,8/1/2021
+802,printer,Jayo,HP EliteBook,ABC123,5/3/2012,2/19/2022,Windows 10,Intel Core i7,24,4/23/2022
+803,scanner,Feednation,Dell OptiPlex,DEF456,8/2/2014,9/15/2023,macOS Big Sur,AMD Ryzen 5,25,1/17/2021
+804,printer,Twitterlist,Lenovo ThinkCentre,ABC123,4/5/2014,8/24/2023,Ubuntu 20.04,AMD Ryzen 5,20,10/23/2023
+805,scanner,Linktype,HP EliteBook,ABC123,12/16/2013,3/25/2025,Ubuntu 20.04,Intel Core i7,8,9/18/2021
+806,printer,Quatz,Dell OptiPlex,DEF456,11/20/2013,8/9/2025,Ubuntu 20.04,Intel Core i7,29,11/12/2021
+807,server,Eidel,HP EliteBook,ABC123,5/27/2016,11/28/2025,macOS Big Sur,Qualcomm Snapdragon,27,7/7/2021
+808,printer,Avamba,Lenovo ThinkCentre,DEF456,2/27/2012,11/15/2024,macOS Big Sur,Intel Core i7,30,1/27/2022
+809,laptop,Youspan,Dell OptiPlex,GHI789,1/17/2018,3/10/2022,macOS Big Sur,Intel Core i7,15,4/22/2021
+810,desktop,Skiba,Dell OptiPlex,GHI789,6/3/2014,11/23/2023,macOS Big Sur,AMD Ryzen 5,27,1/27/2020
+811,server,Mita,Lenovo ThinkCentre,ABC123,11/2/2021,6/29/2024,macOS Big Sur,AMD Ryzen 5,10,11/21/2023
+812,scanner,Tagchat,Dell OptiPlex,DEF456,11/11/2013,5/1/2022,Ubuntu 20.04,Qualcomm Snapdragon,21,2/15/2020
+813,server,Kwideo,Dell OptiPlex,GHI789,12/4/2010,10/30/2023,Windows 10,Intel Core i7,4,1/16/2021
+814,scanner,Voomm,HP EliteBook,GHI789,1/15/2019,8/26/2023,Ubuntu 20.04,AMD Ryzen 5,11,11/13/2020
+815,server,Eabox,HP EliteBook,DEF456,1/22/2016,4/28/2024,Ubuntu 20.04,AMD Ryzen 5,29,3/8/2023
+816,scanner,Tagchat,Lenovo ThinkCentre,ABC123,7/26/2019,7/29/2024,Windows 10,Intel Core i7,28,12/13/2022
+817,server,Roodel,Lenovo ThinkCentre,GHI789,3/13/2018,4/26/2022,Windows 10,AMD Ryzen 5,31,7/3/2023
+818,laptop,Tagpad,Lenovo ThinkCentre,DEF456,2/14/2019,10/24/2024,macOS Big Sur,AMD Ryzen 5,8,8/7/2022
+819,scanner,Skilith,Lenovo ThinkCentre,ABC123,4/24/2018,1/9/2025,macOS Big Sur,Qualcomm Snapdragon,18,5/11/2022
+820,desktop,Twinder,Dell OptiPlex,GHI789,1/4/2017,5/20/2024,Windows 10,AMD Ryzen 5,10,2/3/2024
+821,scanner,Janyx,HP EliteBook,ABC123,1/2/2014,5/18/2022,Windows 10,Qualcomm Snapdragon,8,3/20/2023
+822,desktop,Mynte,HP EliteBook,ABC123,9/11/2019,3/15/2022,Ubuntu 20.04,AMD Ryzen 5,24,6/27/2021
+823,laptop,Kamba,HP EliteBook,ABC123,8/31/2010,10/25/2025,Ubuntu 20.04,AMD Ryzen 5,6,9/29/2023
+824,printer,Voonte,Lenovo ThinkCentre,DEF456,12/23/2016,1/7/2024,Ubuntu 20.04,AMD Ryzen 5,15,9/13/2020
+825,server,Feedmix,Dell OptiPlex,DEF456,5/8/2011,5/31/2022,Windows 10,Qualcomm Snapdragon,6,12/2/2023
+826,server,Quimm,HP EliteBook,DEF456,1/19/2020,5/9/2024,macOS Big Sur,Intel Core i7,16,5/1/2020
+827,scanner,Chatterbridge,Dell OptiPlex,ABC123,7/7/2013,4/26/2024,Ubuntu 20.04,Qualcomm Snapdragon,14,10/30/2023
+828,printer,Youopia,HP EliteBook,GHI789,2/15/2013,5/28/2024,macOS Big Sur,Intel Core i7,8,9/28/2020
+829,server,Quatz,HP EliteBook,ABC123,5/11/2014,8/2/2022,Windows 10,Intel Core i7,18,8/24/2022
+830,printer,Trudoo,Dell OptiPlex,ABC123,4/17/2015,1/22/2022,macOS Big Sur,AMD Ryzen 5,13,6/4/2022
+831,desktop,Devshare,Lenovo ThinkCentre,DEF456,12/14/2016,9/3/2024,Windows 10,Qualcomm Snapdragon,9,5/30/2022
+832,server,Topicblab,Lenovo ThinkCentre,GHI789,2/18/2011,9/14/2025,macOS Big Sur,Qualcomm Snapdragon,26,7/11/2023
+833,scanner,Brightdog,HP EliteBook,DEF456,4/25/2010,7/23/2025,Ubuntu 20.04,Intel Core i7,7,5/27/2021
+834,desktop,Skimia,Dell OptiPlex,ABC123,5/19/2014,12/25/2024,macOS Big Sur,Qualcomm Snapdragon,31,4/29/2021
+835,desktop,LiveZ,Dell OptiPlex,GHI789,6/29/2016,9/6/2022,Windows 10,Intel Core i7,16,2/19/2022
+836,printer,Rhynyx,Lenovo ThinkCentre,GHI789,7/13/2013,10/27/2025,Ubuntu 20.04,AMD Ryzen 5,24,6/10/2020
+837,server,Buzzster,HP EliteBook,ABC123,1/9/2014,12/6/2024,macOS Big Sur,Qualcomm Snapdragon,25,4/15/2022
+838,desktop,Eamia,Dell OptiPlex,GHI789,4/30/2021,7/4/2023,macOS Big Sur,Intel Core i7,18,4/17/2022
+839,scanner,Feedfish,Lenovo ThinkCentre,GHI789,9/6/2014,8/7/2022,Windows 10,AMD Ryzen 5,26,12/16/2022
+840,scanner,Gigabox,Dell OptiPlex,GHI789,9/12/2020,11/12/2024,macOS Big Sur,Qualcomm Snapdragon,26,6/23/2021
+841,laptop,Mudo,HP EliteBook,GHI789,7/22/2014,9/6/2025,Ubuntu 20.04,AMD Ryzen 5,7,10/27/2022
+842,scanner,Photobean,Dell OptiPlex,DEF456,8/10/2014,11/18/2022,Windows 10,Intel Core i7,8,3/4/2020
+843,scanner,Demivee,HP EliteBook,GHI789,11/14/2013,5/14/2022,Windows 10,Intel Core i7,29,5/7/2022
+844,desktop,Eadel,Dell OptiPlex,DEF456,9/11/2016,8/16/2024,macOS Big Sur,Qualcomm Snapdragon,15,4/7/2021
+845,scanner,Voolia,Lenovo ThinkCentre,GHI789,4/24/2019,2/13/2023,Windows 10,AMD Ryzen 5,29,12/31/2022
+846,printer,Twinte,Dell OptiPlex,DEF456,5/3/2011,2/22/2025,macOS Big Sur,Qualcomm Snapdragon,10,4/28/2020
+847,laptop,Topiclounge,Lenovo ThinkCentre,ABC123,4/5/2011,12/8/2025,Windows 10,AMD Ryzen 5,23,2/21/2022
+848,server,Flashset,Dell OptiPlex,GHI789,5/20/2014,2/23/2023,Ubuntu 20.04,Qualcomm Snapdragon,30,12/23/2023
+849,desktop,Yadel,HP EliteBook,DEF456,12/26/2010,10/16/2024,Windows 10,Qualcomm Snapdragon,7,9/18/2023
+850,laptop,Myworks,HP EliteBook,DEF456,6/16/2020,12/9/2025,Windows 10,Intel Core i7,19,3/9/2021
+851,desktop,Riffpedia,Dell OptiPlex,GHI789,2/6/2011,2/11/2022,macOS Big Sur,Intel Core i7,8,10/24/2020
+852,desktop,Skyba,Dell OptiPlex,GHI789,8/14/2016,4/17/2025,Ubuntu 20.04,Qualcomm Snapdragon,26,2/4/2021
+853,scanner,Browsetype,Lenovo ThinkCentre,GHI789,9/8/2014,3/30/2024,macOS Big Sur,AMD Ryzen 5,15,12/16/2020
+854,laptop,Muxo,Lenovo ThinkCentre,ABC123,4/23/2011,7/19/2025,Windows 10,AMD Ryzen 5,9,12/19/2020
+855,desktop,Chatterbridge,Dell OptiPlex,GHI789,4/20/2019,11/18/2025,Windows 10,Qualcomm Snapdragon,21,5/5/2021
+856,server,JumpXS,Dell OptiPlex,GHI789,1/27/2017,6/11/2023,macOS Big Sur,Intel Core i7,6,2/9/2022
+857,desktop,Mycat,HP EliteBook,ABC123,2/14/2019,2/4/2023,macOS Big Sur,Qualcomm Snapdragon,14,10/21/2021
+858,laptop,Dabjam,Lenovo ThinkCentre,DEF456,11/4/2021,3/3/2022,Windows 10,Intel Core i7,31,6/27/2023
+859,printer,Feedfire,Lenovo ThinkCentre,GHI789,3/2/2012,4/14/2025,Windows 10,Intel Core i7,32,8/15/2021
+860,laptop,Dynazzy,Lenovo ThinkCentre,ABC123,12/31/2012,9/19/2025,macOS Big Sur,Qualcomm Snapdragon,27,8/9/2020
+861,server,Meejo,Dell OptiPlex,GHI789,7/2/2018,5/31/2023,Windows 10,Qualcomm Snapdragon,4,11/16/2022
+862,scanner,Zoomcast,HP EliteBook,GHI789,12/19/2019,4/28/2024,macOS Big Sur,Qualcomm Snapdragon,24,2/2/2022
+863,server,Blognation,Lenovo ThinkCentre,GHI789,10/1/2010,8/20/2022,macOS Big Sur,Qualcomm Snapdragon,22,3/11/2022
+864,printer,Oodoo,Dell OptiPlex,GHI789,8/23/2011,12/9/2023,Windows 10,Intel Core i7,10,1/3/2020
+865,desktop,Browsecat,HP EliteBook,ABC123,2/17/2012,6/8/2022,Ubuntu 20.04,Qualcomm Snapdragon,29,4/22/2023
+866,printer,Jamia,Dell OptiPlex,GHI789,7/2/2018,8/4/2022,Windows 10,AMD Ryzen 5,12,8/14/2020
+867,server,Aibox,Lenovo ThinkCentre,GHI789,12/24/2012,10/17/2024,Ubuntu 20.04,Qualcomm Snapdragon,25,5/22/2021
+868,desktop,Bubblemix,HP EliteBook,GHI789,12/20/2016,8/2/2023,Windows 10,Qualcomm Snapdragon,20,1/3/2022
+869,scanner,Ooba,Lenovo ThinkCentre,ABC123,2/23/2019,1/19/2022,macOS Big Sur,Intel Core i7,31,2/23/2023
+870,printer,Edgeify,HP EliteBook,ABC123,11/17/2014,1/7/2023,macOS Big Sur,Qualcomm Snapdragon,8,1/1/2023
+871,scanner,Jaxnation,HP EliteBook,GHI789,8/5/2010,10/25/2022,macOS Big Sur,Intel Core i7,19,9/12/2023
+872,laptop,Tagfeed,Dell OptiPlex,GHI789,4/9/2019,7/27/2023,macOS Big Sur,Qualcomm Snapdragon,28,7/9/2022
+873,printer,Rhybox,HP EliteBook,DEF456,10/7/2021,1/12/2022,Windows 10,Qualcomm Snapdragon,32,5/21/2022
+874,laptop,Tagfeed,HP EliteBook,GHI789,6/19/2018,8/4/2025,macOS Big Sur,Qualcomm Snapdragon,5,4/17/2021
+875,scanner,Kwideo,HP EliteBook,GHI789,7/31/2018,11/6/2023,macOS Big Sur,Intel Core i7,29,10/23/2023
+876,server,Mynte,Dell OptiPlex,DEF456,12/25/2010,12/21/2025,Ubuntu 20.04,Qualcomm Snapdragon,24,11/4/2021
+877,server,InnoZ,HP EliteBook,DEF456,8/8/2013,2/22/2022,Windows 10,Qualcomm Snapdragon,19,6/5/2022
+878,scanner,Livetube,Dell OptiPlex,GHI789,6/6/2012,2/2/2022,Windows 10,Intel Core i7,10,8/26/2021
+879,desktop,Babbleblab,HP EliteBook,GHI789,8/21/2021,12/30/2022,macOS Big Sur,Qualcomm Snapdragon,15,1/14/2020
+880,printer,Vinder,Dell OptiPlex,DEF456,10/6/2014,8/16/2022,Windows 10,AMD Ryzen 5,4,8/30/2022
+881,desktop,Skilith,Dell OptiPlex,GHI789,7/6/2011,3/18/2024,Windows 10,Intel Core i7,30,3/10/2022
+882,laptop,Avamba,Lenovo ThinkCentre,GHI789,6/5/2017,12/12/2022,Windows 10,Intel Core i7,12,2/11/2023
+883,laptop,Kimia,HP EliteBook,ABC123,11/11/2011,4/19/2024,Windows 10,AMD Ryzen 5,18,4/20/2022
+884,desktop,Blogpad,HP EliteBook,ABC123,9/5/2018,1/23/2025,Ubuntu 20.04,Intel Core i7,32,2/24/2020
+885,desktop,Youfeed,Lenovo ThinkCentre,ABC123,8/4/2011,5/21/2024,Windows 10,Intel Core i7,30,10/3/2022
+886,printer,Centidel,Dell OptiPlex,ABC123,3/16/2017,2/14/2022,Windows 10,Intel Core i7,23,10/29/2023
+887,desktop,Latz,Lenovo ThinkCentre,DEF456,6/22/2014,3/21/2022,Windows 10,Qualcomm Snapdragon,31,3/16/2020
+888,laptop,Yamia,Lenovo ThinkCentre,ABC123,5/16/2010,8/19/2024,macOS Big Sur,Intel Core i7,23,6/11/2023
+889,laptop,Oyope,Dell OptiPlex,ABC123,4/28/2011,1/22/2022,Windows 10,AMD Ryzen 5,21,5/12/2022
+890,desktop,Snaptags,Lenovo ThinkCentre,DEF456,7/13/2010,11/3/2024,Windows 10,AMD Ryzen 5,23,8/9/2022
+891,laptop,Buzzdog,Dell OptiPlex,DEF456,3/13/2011,3/18/2023,macOS Big Sur,Intel Core i7,32,4/2/2022
+892,scanner,Photofeed,HP EliteBook,DEF456,2/3/2018,10/17/2024,Windows 10,Intel Core i7,12,1/27/2021
+893,server,Wikizz,Dell OptiPlex,ABC123,6/17/2014,12/3/2025,Windows 10,Qualcomm Snapdragon,10,7/29/2023
+894,server,Quire,Dell OptiPlex,GHI789,2/13/2020,6/8/2023,Windows 10,Intel Core i7,8,1/5/2022
+895,laptop,Voolia,HP EliteBook,ABC123,7/28/2012,11/30/2022,Windows 10,Qualcomm Snapdragon,8,9/26/2020
+896,laptop,LiveZ,HP EliteBook,DEF456,2/17/2010,7/24/2023,macOS Big Sur,AMD Ryzen 5,12,2/21/2021
+897,desktop,Trupe,Dell OptiPlex,ABC123,11/4/2012,9/25/2025,Windows 10,Intel Core i7,32,10/7/2021
+898,printer,Roombo,HP EliteBook,DEF456,10/19/2010,6/3/2023,Windows 10,AMD Ryzen 5,26,10/3/2022
+899,desktop,Centizu,Lenovo ThinkCentre,ABC123,9/25/2021,9/17/2023,Ubuntu 20.04,Qualcomm Snapdragon,18,2/2/2024
+900,desktop,Skimia,Dell OptiPlex,GHI789,4/19/2021,1/6/2022,Ubuntu 20.04,AMD Ryzen 5,4,11/15/2021
+901,printer,Yadel,Dell OptiPlex,GHI789,11/26/2016,8/17/2025,Ubuntu 20.04,Intel Core i7,20,4/23/2023
+902,laptop,Zoozzy,Dell OptiPlex,GHI789,4/30/2012,9/27/2022,Ubuntu 20.04,Intel Core i7,6,7/4/2020
+903,desktop,Quinu,Dell OptiPlex,DEF456,4/7/2017,1/20/2022,Ubuntu 20.04,AMD Ryzen 5,12,1/29/2024
+904,server,Kwimbee,Dell OptiPlex,GHI789,1/23/2010,7/14/2025,macOS Big Sur,AMD Ryzen 5,25,3/8/2022
+905,laptop,Flipstorm,Dell OptiPlex,ABC123,5/25/2012,1/12/2022,macOS Big Sur,AMD Ryzen 5,18,11/26/2021
+906,printer,Vidoo,Lenovo ThinkCentre,GHI789,7/10/2018,4/23/2022,Ubuntu 20.04,AMD Ryzen 5,19,2/7/2024
+907,server,Linktype,Lenovo ThinkCentre,GHI789,4/14/2014,12/24/2023,Ubuntu 20.04,AMD Ryzen 5,22,9/10/2021
+908,printer,Vinte,Lenovo ThinkCentre,GHI789,10/11/2019,3/15/2024,macOS Big Sur,Intel Core i7,28,11/8/2023
+909,desktop,Jabberbean,Dell OptiPlex,ABC123,6/29/2018,7/15/2022,Ubuntu 20.04,AMD Ryzen 5,15,7/16/2023
+910,desktop,Jaxnation,Lenovo ThinkCentre,GHI789,11/13/2016,12/8/2023,Ubuntu 20.04,Qualcomm Snapdragon,16,12/14/2020
+911,server,Meevee,Lenovo ThinkCentre,DEF456,9/23/2014,2/9/2024,Windows 10,AMD Ryzen 5,16,11/10/2023
+912,server,Quire,Dell OptiPlex,DEF456,5/31/2013,7/1/2025,Windows 10,Qualcomm Snapdragon,23,8/1/2022
+913,server,Quaxo,Lenovo ThinkCentre,GHI789,10/4/2021,1/3/2022,Windows 10,Intel Core i7,12,8/23/2020
+914,server,Voonder,Dell OptiPlex,DEF456,4/25/2017,7/7/2025,Windows 10,AMD Ryzen 5,13,12/13/2022
+915,server,Vipe,HP EliteBook,ABC123,9/15/2017,7/13/2023,Windows 10,Intel Core i7,10,2/9/2022
+916,desktop,Vinte,Dell OptiPlex,DEF456,9/3/2010,2/23/2022,macOS Big Sur,Intel Core i7,13,10/3/2023
+917,scanner,Trudoo,Lenovo ThinkCentre,ABC123,5/17/2013,11/30/2022,macOS Big Sur,Intel Core i7,19,9/25/2023
+918,printer,Innotype,Dell OptiPlex,GHI789,3/16/2015,2/13/2022,macOS Big Sur,Intel Core i7,32,8/24/2022
+919,desktop,Dabjam,HP EliteBook,DEF456,5/24/2018,12/13/2025,Windows 10,AMD Ryzen 5,5,9/18/2020
+920,laptop,DabZ,Lenovo ThinkCentre,GHI789,2/26/2018,5/29/2025,Windows 10,AMD Ryzen 5,29,4/19/2023
+921,desktop,Blogtag,Dell OptiPlex,DEF456,3/22/2012,3/30/2023,Windows 10,Qualcomm Snapdragon,6,10/4/2023
+922,desktop,Kazu,Lenovo ThinkCentre,DEF456,12/10/2015,12/10/2023,macOS Big Sur,Intel Core i7,9,3/3/2022
+923,laptop,Dabfeed,HP EliteBook,ABC123,3/23/2013,10/9/2024,macOS Big Sur,Qualcomm Snapdragon,5,10/30/2021
+924,laptop,LiveZ,HP EliteBook,ABC123,4/7/2014,1/15/2022,Ubuntu 20.04,Intel Core i7,16,1/29/2021
+925,server,Jabbercube,Lenovo ThinkCentre,DEF456,7/12/2016,6/10/2025,macOS Big Sur,Qualcomm Snapdragon,15,7/17/2023
+926,server,Shuffledrive,Lenovo ThinkCentre,GHI789,2/10/2016,3/6/2022,Ubuntu 20.04,Intel Core i7,9,9/3/2023
+927,desktop,Fadeo,Dell OptiPlex,GHI789,9/27/2015,1/4/2025,Ubuntu 20.04,Qualcomm Snapdragon,17,5/6/2023
+928,desktop,Abata,HP EliteBook,GHI789,10/10/2017,5/9/2025,Windows 10,Qualcomm Snapdragon,32,8/3/2023
+929,server,Eabox,Dell OptiPlex,ABC123,8/13/2021,7/15/2024,Ubuntu 20.04,Intel Core i7,21,1/20/2020
+930,desktop,Oyoba,HP EliteBook,GHI789,8/23/2012,7/25/2022,Ubuntu 20.04,AMD Ryzen 5,8,8/26/2022
+931,printer,Browsezoom,Lenovo ThinkCentre,GHI789,6/26/2011,11/4/2023,Windows 10,AMD Ryzen 5,27,1/27/2024
+932,scanner,Gigazoom,Lenovo ThinkCentre,GHI789,9/20/2020,7/1/2022,Ubuntu 20.04,Intel Core i7,31,10/26/2020
+933,laptop,Latz,Dell OptiPlex,GHI789,2/12/2017,9/5/2025,Ubuntu 20.04,Intel Core i7,12,9/28/2021
+934,printer,Teklist,HP EliteBook,ABC123,6/29/2017,3/18/2022,macOS Big Sur,Qualcomm Snapdragon,18,11/26/2021
+935,laptop,Photojam,HP EliteBook,ABC123,11/1/2021,4/24/2023,Ubuntu 20.04,AMD Ryzen 5,26,3/28/2021
+936,printer,Dablist,Lenovo ThinkCentre,ABC123,11/27/2020,9/15/2024,Windows 10,Qualcomm Snapdragon,19,11/28/2023
+937,printer,Devpoint,Lenovo ThinkCentre,DEF456,9/4/2018,3/24/2025,macOS Big Sur,Intel Core i7,29,10/21/2023
+938,desktop,Photobean,HP EliteBook,GHI789,12/13/2020,7/3/2022,Ubuntu 20.04,Qualcomm Snapdragon,17,10/11/2022
+939,desktop,Skinder,HP EliteBook,ABC123,12/7/2020,1/3/2023,Ubuntu 20.04,AMD Ryzen 5,20,8/16/2020
+940,laptop,Dabshots,HP EliteBook,DEF456,3/1/2011,12/5/2023,macOS Big Sur,AMD Ryzen 5,7,11/5/2020
+941,laptop,Feedmix,Lenovo ThinkCentre,DEF456,4/2/2011,5/31/2025,Windows 10,Qualcomm Snapdragon,15,7/13/2023
+942,laptop,Zoovu,Lenovo ThinkCentre,DEF456,6/8/2012,6/5/2023,Ubuntu 20.04,Qualcomm Snapdragon,6,6/15/2020
+943,scanner,Zoonder,Dell OptiPlex,DEF456,3/21/2020,9/11/2023,Windows 10,Qualcomm Snapdragon,16,2/2/2020
+944,scanner,Mymm,Lenovo ThinkCentre,ABC123,2/7/2012,6/8/2023,Ubuntu 20.04,Qualcomm Snapdragon,12,2/8/2022
+945,desktop,Thoughtbridge,Lenovo ThinkCentre,DEF456,10/27/2016,9/19/2023,Windows 10,AMD Ryzen 5,6,4/27/2021
+946,scanner,Ainyx,HP EliteBook,GHI789,2/8/2012,4/8/2024,Windows 10,Intel Core i7,18,12/20/2021
+947,server,Rhyloo,Dell OptiPlex,GHI789,10/3/2015,1/28/2022,Ubuntu 20.04,Intel Core i7,21,4/14/2021
+948,scanner,Kwideo,Lenovo ThinkCentre,ABC123,5/13/2017,5/8/2022,macOS Big Sur,Intel Core i7,13,3/3/2020
+949,laptop,Kayveo,Dell OptiPlex,GHI789,3/26/2010,3/22/2025,Windows 10,AMD Ryzen 5,26,1/22/2020
+950,scanner,Photobean,Dell OptiPlex,ABC123,8/6/2014,5/21/2023,Ubuntu 20.04,AMD Ryzen 5,16,4/19/2021
+951,desktop,Oyoba,Lenovo ThinkCentre,DEF456,4/11/2019,5/28/2024,Windows 10,AMD Ryzen 5,8,1/29/2024
+952,laptop,Skiptube,Lenovo ThinkCentre,GHI789,12/7/2019,1/30/2024,Windows 10,Qualcomm Snapdragon,7,2/1/2023
+953,printer,Tazz,HP EliteBook,GHI789,2/3/2011,3/21/2022,macOS Big Sur,Intel Core i7,23,7/28/2022
+954,printer,Thoughtblab,Dell OptiPlex,GHI789,2/2/2013,12/7/2022,Ubuntu 20.04,Intel Core i7,4,4/25/2022
+955,laptop,Katz,Dell OptiPlex,GHI789,2/13/2016,3/22/2024,Ubuntu 20.04,AMD Ryzen 5,7,9/14/2023
+956,printer,Kanoodle,HP EliteBook,GHI789,4/18/2016,6/6/2025,macOS Big Sur,Intel Core i7,4,8/19/2020
+957,scanner,Devpulse,Lenovo ThinkCentre,GHI789,7/29/2013,5/18/2025,Windows 10,Qualcomm Snapdragon,26,7/9/2020
+958,scanner,Devify,HP EliteBook,ABC123,2/14/2021,1/1/2024,macOS Big Sur,Intel Core i7,17,5/25/2021
+959,laptop,Zazio,HP EliteBook,ABC123,5/19/2016,4/28/2023,Ubuntu 20.04,Qualcomm Snapdragon,21,7/29/2022
+960,server,Rhyloo,HP EliteBook,GHI789,9/14/2021,3/5/2023,Ubuntu 20.04,Intel Core i7,17,5/2/2023
+961,server,Realblab,HP EliteBook,DEF456,4/24/2011,2/20/2023,Ubuntu 20.04,AMD Ryzen 5,32,3/24/2022
+962,server,Brightdog,Lenovo ThinkCentre,DEF456,4/11/2015,4/6/2025,macOS Big Sur,Intel Core i7,27,8/12/2021
+963,scanner,Gigazoom,Lenovo ThinkCentre,ABC123,7/10/2016,11/2/2025,Ubuntu 20.04,AMD Ryzen 5,26,11/28/2023
+964,laptop,Yodel,HP EliteBook,ABC123,5/14/2015,9/16/2024,Windows 10,Qualcomm Snapdragon,8,8/27/2020
+965,desktop,Jabberbean,Lenovo ThinkCentre,GHI789,5/27/2016,7/21/2023,macOS Big Sur,Intel Core i7,16,8/16/2021
+966,laptop,Livetube,Dell OptiPlex,GHI789,7/10/2021,5/11/2024,Ubuntu 20.04,Qualcomm Snapdragon,12,9/1/2023
+967,scanner,Miboo,HP EliteBook,ABC123,2/1/2014,12/3/2023,Windows 10,Qualcomm Snapdragon,24,10/31/2022
+968,laptop,Photojam,Lenovo ThinkCentre,GHI789,10/10/2015,8/12/2025,macOS Big Sur,Qualcomm Snapdragon,18,10/4/2023
+969,printer,Livepath,Lenovo ThinkCentre,DEF456,12/10/2017,5/7/2022,macOS Big Sur,Qualcomm Snapdragon,8,9/1/2022
+970,printer,Abatz,Lenovo ThinkCentre,DEF456,9/20/2014,5/24/2022,macOS Big Sur,AMD Ryzen 5,22,4/19/2021
+971,desktop,Youopia,HP EliteBook,DEF456,5/22/2021,9/15/2023,Windows 10,AMD Ryzen 5,16,7/1/2023
+972,desktop,Tanoodle,Lenovo ThinkCentre,GHI789,6/28/2013,7/23/2024,macOS Big Sur,Intel Core i7,21,9/5/2023
+973,scanner,Yodo,Dell OptiPlex,GHI789,9/10/2015,2/13/2025,macOS Big Sur,AMD Ryzen 5,22,2/16/2020
+974,desktop,Realpoint,Lenovo ThinkCentre,ABC123,4/30/2019,11/14/2022,Ubuntu 20.04,AMD Ryzen 5,31,10/12/2023
+975,laptop,Rhynyx,Dell OptiPlex,GHI789,10/3/2010,10/12/2022,Ubuntu 20.04,Qualcomm Snapdragon,11,3/6/2023
+976,desktop,Realblab,HP EliteBook,ABC123,2/26/2013,8/8/2024,macOS Big Sur,Qualcomm Snapdragon,18,2/20/2022
+977,desktop,Fanoodle,Lenovo ThinkCentre,DEF456,5/14/2018,4/23/2025,macOS Big Sur,AMD Ryzen 5,30,3/9/2020
+978,printer,Viva,Dell OptiPlex,GHI789,1/21/2015,5/23/2023,Ubuntu 20.04,AMD Ryzen 5,14,8/24/2021
+979,server,Browsecat,Dell OptiPlex,ABC123,12/9/2010,7/24/2025,Ubuntu 20.04,AMD Ryzen 5,28,3/30/2020
+980,scanner,Skynoodle,HP EliteBook,GHI789,9/21/2018,7/11/2023,Windows 10,Qualcomm Snapdragon,29,12/20/2020
+981,server,Feedspan,Lenovo ThinkCentre,ABC123,8/26/2010,2/1/2025,macOS Big Sur,Intel Core i7,16,3/18/2022
+982,laptop,Demizz,HP EliteBook,GHI789,10/15/2020,5/12/2024,Ubuntu 20.04,Qualcomm Snapdragon,7,11/6/2020
+983,desktop,Yamia,HP EliteBook,ABC123,7/21/2017,6/10/2022,macOS Big Sur,AMD Ryzen 5,21,7/6/2020
+984,printer,Youbridge,HP EliteBook,GHI789,8/12/2013,9/3/2025,Ubuntu 20.04,AMD Ryzen 5,14,12/15/2023
+985,desktop,Demizz,Lenovo ThinkCentre,ABC123,5/19/2011,9/18/2023,macOS Big Sur,Intel Core i7,32,6/8/2021
+986,printer,Katz,Lenovo ThinkCentre,DEF456,3/24/2012,10/13/2022,Windows 10,Intel Core i7,19,1/6/2021
+987,scanner,Linktype,Lenovo ThinkCentre,GHI789,7/8/2021,10/31/2022,Ubuntu 20.04,Intel Core i7,27,6/17/2021
+988,desktop,Skajo,Dell OptiPlex,ABC123,9/7/2020,6/14/2024,Windows 10,AMD Ryzen 5,11,12/29/2021
+989,desktop,JumpXS,HP EliteBook,ABC123,10/6/2021,5/3/2024,Ubuntu 20.04,Intel Core i7,10,12/12/2022
+990,scanner,Miboo,Dell OptiPlex,DEF456,4/18/2010,5/20/2023,macOS Big Sur,AMD Ryzen 5,10,2/21/2023
+991,scanner,Trilith,HP EliteBook,GHI789,5/30/2017,11/6/2022,Ubuntu 20.04,Qualcomm Snapdragon,23,4/9/2021
+992,server,Innojam,Dell OptiPlex,ABC123,10/10/2011,8/3/2022,Ubuntu 20.04,Qualcomm Snapdragon,28,3/23/2020
+993,scanner,Voonix,HP EliteBook,GHI789,9/14/2015,9/19/2024,Ubuntu 20.04,Intel Core i7,21,12/31/2020
+994,scanner,Wordify,Lenovo ThinkCentre,DEF456,3/31/2015,4/4/2024,macOS Big Sur,Intel Core i7,15,6/29/2020
+995,scanner,Tagfeed,Lenovo ThinkCentre,ABC123,6/2/2021,10/26/2024,Windows 10,AMD Ryzen 5,29,4/5/2021
+996,desktop,Zooveo,Dell OptiPlex,DEF456,12/1/2015,9/18/2025,Windows 10,AMD Ryzen 5,13,10/14/2022
+997,desktop,Feednation,Lenovo ThinkCentre,DEF456,10/22/2018,11/10/2024,Ubuntu 20.04,Intel Core i7,9,10/31/2023
+998,server,Trunyx,Lenovo ThinkCentre,ABC123,9/2/2021,10/14/2025,Ubuntu 20.04,Qualcomm Snapdragon,10,10/25/2023
+999,desktop,Jabberbean,HP EliteBook,GHI789,10/9/2012,6/24/2024,Windows 10,Intel Core i7,17,12/19/2021
+1000,desktop,Thoughtblab,HP EliteBook,ABC123,9/24/2010,11/1/2025,macOS Big Sur,Intel Core i7,4,3/25/2023

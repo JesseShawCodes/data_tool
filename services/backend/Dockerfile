@@ -1,27 +1,30 @@
-# syntax=docker/dockerfile:1.4
-FROM --platform=$BUILDPLATFORM python:3.10-alpine AS builder
+FROM python:3.10.14-slim-bullseye
 
-WORKDIR /app
+# set working directory
+WORKDIR /usr/src/data-tool
 
-COPY requirements.txt /app
-RUN --mount=type=cache,target=/root/.cache/pip \
-    pip3 install -r requirements.txt
+# set environment variables
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
+ENV FLASK_APP=app
 
-COPY . /app
+# install system dependencies
+RUN apt-get update \
+  && apt-get -y install netcat gcc postgresql \
+  && apt-get clean
 
-ENTRYPOINT ["python3"]
-CMD ["app.py"]
+# add and install requirements
+COPY ./requirements.txt .
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+RUN pip3 install psycopg2-binary
 
-FROM builder as dev-envs
 
-RUN <<EOF
-apk update
-apk add git
-EOF
+# add entrypoint.sh
+COPY ./entrypoint.sh /usr/src/data-tool/entrypoint.sh
+RUN chmod +x /usr/src/data-tool/entrypoint.sh
 
-RUN <<EOF
-addgroup -S docker
-adduser -S --shell /bin/bash --ingroup docker vscode
-EOF
-# install Docker tools (cli, buildx, compose)
-COPY --from=gloursdocker/docker / /
+# add app
+COPY . .
+
+CMD ["python","app.py"]
