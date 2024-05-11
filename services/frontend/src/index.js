@@ -16,12 +16,12 @@ import { getFirestore } from "firebase/firestore/lite"
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDd52ZgAuhuJ-gr_r9Y4IG8S_xI-wqI9qc",
-  authDomain: "data-project---jacobs.firebaseapp.com",
-  projectId: "data-project---jacobs",
-  storageBucket: "data-project---jacobs.appspot.com",
-  messagingSenderId: "10357076793",
-  appId: "1:10357076793:web:a0312ff4a604aa7e31aee8"
+  apiKey: process.env.REACT_APP_APIKEY,
+  authDomain: process.env.REACT_APP_AUTHDOMAIN,
+  projectId: process.env.REACT_APP_PROJECTID,
+  storageBucket: process.env.REACT_APP_STORAGEBUCKET,
+  messagingSenderId: process.env.REACT_APP_MESSAGINGSENDERID,
+  appId: process.env.REACT_APP_APPID
 };
 
 // Initialize Firebase

@@ -1,4 +1,7 @@
-import { Link, useNavigate } from 'react-router-dom';
+import { 
+    // Link, 
+    useNavigate 
+} from 'react-router-dom';
 import useUser from './hooks/useUser';
 import { getAuth, signOut } from 'firebase/auth';
 
@@ -6,7 +9,7 @@ import { getAuth, signOut } from 'firebase/auth';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+// import NavDropdown from 'react-bootstrap/NavDropdown';
 
 const NavBar = () => {
     const { user } = useUser();

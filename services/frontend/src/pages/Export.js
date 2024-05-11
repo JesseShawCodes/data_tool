@@ -1,12 +1,37 @@
 import useUser from "../hooks/useUser";
 import {LoginMessaging} from "../components/LoginMessaging";
+import axios from 'axios'
 
 export default function ExportPage() {
     const { user } = useUser()
 
+    const downloadCsv = () => {
+        axios({
+            url: `${process.env.REACT_APP_DB_URL}download_csv`,
+            method: "GET",
+            responseType: 'blob'
+        })
+        .then(res => {
+            // create file link in browser's memory
+            const href = URL.createObjectURL(res.data);
+
+            // create "a" HTML element with href to file & click
+            const link = document.createElement('a');
+            link.href = href;
+            link.setAttribute('download', 'users.csv'); //or any other extension
+            document.body.appendChild(link);
+            link.click();
+
+            // clean up "a" element & remove ObjectURL
+            document.body.removeChild(link);
+            URL.revokeObjectURL(href);
+        })
+    }
+
     const about_page =                
     <div className="container app-container">
         <h1>This is the Export Page</h1>
+        <button className="btn btn-primary" onClick={() => {downloadCsv()}}>Download CSV</button>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dictum non eros nec faucibus. Proin sollicitudin turpis suscipit orci placerat auctor. Integer sit amet tellus ultrices, hendrerit lacus ut, finibus sapien. Nunc ultricies dolor a sodales venenatis. Integer porttitor, enim sit amet sagittis viverra, risus massa pulvinar neque, a pretium turpis ante eu neque. Cras interdum nunc in hendrerit porttitor. Nam varius rutrum diam ac facilisis. Nulla quis finibus orci, eget dignissim libero. Etiam at sapien ut dolor consectetur maximus faucibus nec erat. Curabitur eget nibh volutpat, rhoncus ante eu, gravida lectus. Maecenas a suscipit libero. Etiam faucibus nulla et nisi auctor, sed ultrices ex consectetur. Morbi ut dui purus. Etiam nec accumsan nisi. Morbi finibus interdum magna, sit amet viverra dolor aliquam id.</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin volutpat commodo vulputate. Quisque pulvinar felis nec dolor rutrum pretium. Mauris ac nisl sit amet orci tincidunt luctus non ac est. Proin eu sollicitudin mauris. Donec tempus venenatis libero, et lacinia sem condimentum a. Mauris ut ullamcorper odio. In eros sem, vehicula sit amet lorem vel, accumsan posuere orci. Proin hendrerit, metus nec pellentesque finibus, lacus lectus pulvinar elit, nec porttitor dui nunc eu nunc. Vivamus accumsan laoreet dolor vel blandit.</p>
         <p>Phasellus at odio a sem fringilla bibendum. Nullam ut imperdiet mi. Nunc aliquam quam vitae dolor feugiat, eu consectetur augue pulvinar. Nunc ullamcorper nulla ornare aliquet convallis. Aliquam aliquet erat non aliquam aliquet. Mauris a diam id felis viverra accumsan vel eu arcu. Nullam eu suscipit magna. Sed vel lobortis mauris, a luctus sem. Mauris suscipit sit amet tortor eget feugiat.</p>
