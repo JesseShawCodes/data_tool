@@ -3,6 +3,8 @@ import csv
 
 from flask_cors import CORS, cross_origin
 
+from datetime import datetime
+
 app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
@@ -49,6 +51,8 @@ def download_csv():
 	csv_data = "Name,Email\n"
 	for user in users:
 		csv_data += f"{user['name']},{user['email']}\n"
+	
+	csv_data += f"File Generated {datetime.today().strftime('%c')}"
 
 	# Create a temporary CSV file and serve it for download
 	with open("users.csv", "w") as csv_file:
