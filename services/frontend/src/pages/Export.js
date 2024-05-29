@@ -18,7 +18,8 @@ export default function ExportPage() {
             // create "a" HTML element with href to file & click
             const link = document.createElement('a');
             link.href = href;
-            link.setAttribute('download', 'users.csv'); //or any other extension
+            const date = new Date();
+            link.setAttribute('download', `${date.toISOString().replace(/\D/g,'')}_users.csv`); //or any other extension
             document.body.appendChild(link);
             link.click();
 
