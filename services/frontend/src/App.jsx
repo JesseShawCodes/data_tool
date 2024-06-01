@@ -10,7 +10,7 @@ import CreateAccountPage from './pages/CreateAccountPage';
 import AboutPage from './pages/AboutPage';
 import ExportPage from './pages/Export';
 
-import NotFoundPage from './pages/NotFoundPage';
+import NotFound from './pages/NotFoundPage';
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
           <Route path="/about" element={<AboutPage />} />
           <Route path="/export" element={<ExportPage />} />
           <Route path="/create_account" element={<CreateAccountPage />} />
-          <Route path="*" element={<NotFoundPage />} />
+          <Route path="*" element={<NotFound />} />
 
           {/* Nested Route Example */}
         </Routes>
