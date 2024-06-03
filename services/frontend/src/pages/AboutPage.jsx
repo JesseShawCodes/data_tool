@@ -1,6 +1,6 @@
 import React from 'react';
 import useUser from '../hooks/useUser';
-import { LoginMessaging } from '../components/LoginMessaging';
+import LoginMessaging from '../components/LoginMessaging';
 
 export default function AboutPage() {
   const { user } = useUser();

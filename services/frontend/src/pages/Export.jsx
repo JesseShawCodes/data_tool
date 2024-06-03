@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 import useUser from '../hooks/useUser';
-import { LoginMessaging } from '../components/LoginMessaging';
+import LoginMessaging from '../components/LoginMessaging';
 
 export default function ExportPage() {
   const { user } = useUser();
