@@ -10,10 +10,14 @@ export default function NavBar() {
   const { user } = useUser();
   const navigate = useNavigate();
 
+  if (useUser().isLoading) {
+    return null;
+  }
+
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container className="d-flex justify-content-between">
-        <Navbar.Brand href="/">Data App</Navbar.Brand>
+        <Navbar.Brand href="/">Dexx</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           {
@@ -33,7 +37,7 @@ export default function NavBar() {
         Signed in as:
         {user.email}
       </Navbar.Text>
-    ) : ''
+    ) : null
   }
 
         </Navbar.Collapse>

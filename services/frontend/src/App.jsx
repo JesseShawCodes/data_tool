@@ -1,4 +1,4 @@
-import React from 'react';
+import { React } from 'react';
 
 import './App.scss';
 
@@ -19,14 +19,11 @@ function App() {
         <NavBar />
         <Routes>
           <Route path="/" element={<HomePage />} />
-          {/* End Test Pages */}
           <Route path="/login" element={<LoginPage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/export" element={<ExportPage />} />
           <Route path="/create_account" element={<CreateAccountPage />} />
           <Route path="*" element={<NotFound />} />
-
-          {/* Nested Route Example */}
         </Routes>
       </div>
     </BrowserRouter>

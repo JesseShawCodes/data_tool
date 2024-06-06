@@ -2,9 +2,14 @@ import React from 'react';
 import axios from 'axios';
 import useUser from '../hooks/useUser';
 import LoginMessaging from '../components/LoginMessaging';
+import LoadingMessaging from '../components/LoadingMessaging';
 
 export default function ExportPage() {
   const { user } = useUser();
+
+  if (useUser().isLoading) {
+    return <LoadingMessaging />;
+  }
 
   const downloadCsv = () => {
     axios({
