@@ -35,7 +35,7 @@ export default function CreateAccountPage() {
           <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" value={email} onChange={(e) => setEmail(e.target.value)} autoComplete="email" />
         </label>
         <div>
-          <small id="emailHelp" className="form-text text-muted">We`&apos;`ll never share your email with anyone else.</small>
+          <small id="emailHelp" className="form-text text-muted">We&apos;ll never share your email with anyone else.</small>
         </div>
       </div>
       <div className="form-group">

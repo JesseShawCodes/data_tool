@@ -28,7 +28,7 @@ export default function LoginPage() {
           <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" value={email} onChange={(e) => setEmail(e.target.value)} autoComplete="email" />
         </label>
         <div>
-          <small id="emailHelp" className="form-text text-muted">We`&apos;`ll never share your email with anyone else.</small>
+          <small id="emailHelp" className="form-text text-muted">We&apos;ll never share your email with anyone else.</small>
         </div>
       </div>
       <div className="form-group">
@@ -41,7 +41,7 @@ export default function LoginPage() {
         <button onClick={login} type="submit" className="btn btn-primary">Log In</button>
       </div>
       <div>
-        <Link to="/create_account">Don`&apos;`t have an account? Click Here</Link>
+        <Link to="/create_account">Don&apos;t have an account? Click Here</Link>
       </div>
     </div>
   );
