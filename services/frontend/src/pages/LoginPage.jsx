@@ -1,5 +1,5 @@
 import { React, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { getAuth, signInWithEmailAndPassword } from 'firebase/auth';
 
 export default function LoginPage() {
@@ -39,9 +39,6 @@ export default function LoginPage() {
       </div>
       <div>
         <button onClick={login} type="submit" className="btn btn-primary">Log In</button>
-      </div>
-      <div>
-        <Link to="/create_account">Don&apos;t have an account? Click Here</Link>
       </div>
     </div>
   );

@@ -12,15 +12,17 @@ import ExportPage from './pages/Export';
 
 import NotFound from './pages/NotFoundPage';
 
+import content from './data/data.json';
+
 function App() {
   return (
     <BrowserRouter>
       <div className="App">
         <NavBar />
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/" element={<HomePage homeHeading={content.homePage.homeContent} mainMessaging={content.homePage.homeContent} />} />
           <Route path="/login" element={<LoginPage />} />
-          <Route path="/about" element={<AboutPage />} />
+          <Route path="/about" element={<AboutPage aboutHeading={content.aboutPage.aboutPageHeading} aboutPageContent={content.aboutPage.aboutPageContent} />} />
           <Route path="/export" element={<ExportPage />} />
           <Route path="/create_account" element={<CreateAccountPage />} />
           <Route path="*" element={<NotFound />} />
