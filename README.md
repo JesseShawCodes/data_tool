@@ -13,5 +13,7 @@ This step starts up the backend and DB. The Backend is built on Flask, the DB is
 Front end is built with React. 
 
 `cd services/frontend`
+
 `npm install`
+
 `npm start`
