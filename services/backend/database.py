@@ -1,11 +1,11 @@
+'''
+Basic Database.py file implementation
+'''
+
 import os
-import requests
 
-print("DATABASE.py")
-
-from sqlalchemy import Column, String, Integer, ForeignKey, create_engine, DateTime, JSON
-from sqlalchemy.orm import registry, relationship, Session
-from sqlalchemy.sql import func
+from sqlalchemy import Column, String, Integer, create_engine
+from sqlalchemy.orm import registry
 
 engine = create_engine(os.environ["DATABASE_ENGINE"],
 	echo=True)
@@ -13,21 +13,14 @@ engine = create_engine(os.environ["DATABASE_ENGINE"],
 mapper_registry = registry()
 
 Base = mapper_registry.generate_base()
-
+'''
+Test "Equipment" Class.
+Will ultimately remove later.
+'''
 class Equipment(Base):
-    # equipment_id,equipment_type,manufacturer,model,serial_number,purchase_date,warranty_expiration,operating_system,processor,ram_size,last_test_date
     __tablename__ = 'Equipment'
     equipment_id = Column(Integer, primary_key=True)
-    # equipment_type
-    # manufacturer
-    # model
-    # serial_number
-    # purchase_date
-    # warranty_expiration
-    # operating_system
-    # processor
-    # ram_size
-    # last_test_date
+
     title = Column(String(length=50))
     description = Column(String(length=50))
 
