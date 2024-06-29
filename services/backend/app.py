@@ -19,19 +19,6 @@ users = [
 	}
 ]
 
-@app.route("/", methods=["GET", "POST"])
-def index():
-    if request.method == "POST":
-        name = request.form.get("name")
-        email = request.form.get("email")
-        users.append({"name": name, "email": email})
-
-    return render_template("index.html", csv_data=users)
-
-@app.route("/test", methods=["GET"])
-def test_function():
-    return jsonify({"Test": "TEST"})
-
 @app.route("/generate_csv")
 def generate_csv():
     if len(users) == 0:
