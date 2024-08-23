@@ -4,16 +4,16 @@
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/user-event": "^14.5.2",
     "@types/jest": "^29.5.12",
-    "@types/node": "^20.14.0",
+    "@types/node": "^22.5.0",
     "@types/react-dom": "^18.3.0",
     "axios": "^1.6.8",
     "bootstrap": "^5.3.3",
     "firebase": "^10.10.0",
-    "flow-bin": "^0.237.1",
+    "flow-bin": "^0.244.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.2",
@@ -22,7 +22,7 @@
     "react-router-dom": "^6.22.3",
     "react-scripts": "^5.0.1",
     "sass": "^1.74.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^4.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -50,7 +50,7 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
+    "eslint": "^7.32.0 || ^8.2.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsx-a11y": "^6.9.0",
