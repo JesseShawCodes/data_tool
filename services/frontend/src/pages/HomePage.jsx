@@ -16,6 +16,6 @@ HomePage.propTypes = {
 };
 
 HomePage.defaultProps = {
-  homeHeading: 'This is the home page',
+  homeHeading: 'Welcome to Dexx',
   mainMessaging: 'Welcome to the App',
 };

@@ -39,20 +39,20 @@ export default function NavBar() {
       </Navbar.Text>
     ) : null
   }
-
+          <Navbar.Text className="justify-content-end">
+            { user
+              ? (
+                <button type="button" className="btn btn-secondary" onClick={() => { signOut(getAuth()); }}>
+                  Logout
+                </button>
+              ) : (
+                <button type="button" className="btn btn-secondary" onClick={() => { navigate('/login'); }}>
+                  Login
+                </button>
+              ) }
+          </Navbar.Text>
         </Navbar.Collapse>
-        <Navbar.Text className="justify-content-end">
-          { user
-            ? (
-              <button type="button" className="btn btn-secondary" onClick={() => { signOut(getAuth()); }}>
-                Logout
-              </button>
-            ) : (
-              <button type="button" className="btn btn-secondary" onClick={() => { navigate('/login'); }}>
-                Login
-              </button>
-            ) }
-        </Navbar.Text>
+
       </Container>
     </Navbar>
   );

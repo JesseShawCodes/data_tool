@@ -13,7 +13,7 @@ export default function ExportPage() {
 
   const downloadCsv = () => {
     axios({
-      url: `${process.env.REACT_APP_DB_URL}download_csv`,
+      url: `${process.env.REACT_APP_DB_URL}download_csv?category="Test"`,
       method: 'GET',
       responseType: 'blob',
     })
