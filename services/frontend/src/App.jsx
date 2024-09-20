@@ -13,6 +13,7 @@ import ExportPage from './pages/Export';
 import NotFound from './pages/NotFoundPage';
 
 import content from './data/data.json';
+import UserAccount from './pages/UserAccount';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage homeHeading={content.homePage.homeContent} mainMessaging={content.homePage.homeContent} />} />
           <Route path="/login" element={<LoginPage />} />
+          <Route path="/account" element={<UserAccount />} />
           <Route path="/about" element={<AboutPage aboutHeading={content.aboutPage.aboutPageHeading} aboutPageContent={content.aboutPage.aboutPageContent} />} />
           <Route path="/export" element={<ExportPage />} />
           <Route path="/create_account" element={<CreateAccountPage />} />

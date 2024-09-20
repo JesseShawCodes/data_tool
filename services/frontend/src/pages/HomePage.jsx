@@ -1,21 +1,10 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
-export default function HomePage({ homeHeading = 'Welcome to Dexx', mainMessaging = 'Welcome to the App' }) {
+export default function HomePage() {
   return (
     <div className="container app-container">
-      <h1>{homeHeading}</h1>
-      <p>{mainMessaging}</p>
+      <h1>Welcome to Dexx</h1>
+      <p>Main Messaging</p>
     </div>
   );
 }
-
-HomePage.propTypes = {
-  homeHeading: PropTypes.string,
-  mainMessaging: PropTypes.string,
-};
-
-HomePage.defaultProps = {
-  homeHeading: 'Welcome to Dexx',
-  mainMessaging: 'Welcome to the App',
-};

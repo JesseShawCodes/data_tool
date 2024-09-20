@@ -4,7 +4,7 @@ import { render, screen } from '@testing-library/react';
 import HomePage from '../../src/pages/HomePage';
 
 describe('Greet', () => {
-  it('should render the AboutPage Component', () => {
+  it('should render the HomePage Component', () => {
     render(<HomePage />);
 
     const heading = screen.getByRole('heading');
