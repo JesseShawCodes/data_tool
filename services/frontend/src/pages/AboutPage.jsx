@@ -4,7 +4,7 @@ import useUser from '../hooks/useUser';
 import LoginMessaging from '../components/LoginMessaging';
 import LoadingMessaging from '../components/LoadingMessaging';
 
-export default function AboutPage({ aboutHeading = 'This is the About page', aboutPageContent = 'sfsafs' }) {
+export default function AboutPage({ aboutHeading = 'This is the About page', aboutPageContent = 'This is the content section of the about page' }) {
   const { user } = useUser();
 
   const aboutPage = (
@@ -30,11 +30,6 @@ export default function AboutPage({ aboutHeading = 'This is the About page', abo
 }
 
 AboutPage.propTypes = {
-  aboutHeading: PropTypes.string,
-  aboutPageContent: PropTypes.string,
-};
-
-AboutPage.defaultProps = {
-  aboutHeading: 'This is the About page',
-  aboutPageContent: 'faskjfkh',
+  aboutHeading: PropTypes.string.isRequired,
+  aboutPageContent: PropTypes.string.isRequired,
 };
